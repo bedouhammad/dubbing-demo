@@ -1,0 +1,4229 @@
+{
+  "language": "en",
+  "model": "medium",
+  "beam_size": 5,
+  "chunk_seconds": 600.0,
+  "chunk_count": 5,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.76,
+      "text": "I'm a professor of entrepreneurship at a university, I run the accelerator there, the"
+    },
+    {
+      "start": 4.76,
+      "end": 5.76,
+      "text": "venture lab."
+    },
+    {
+      "start": 5.76,
+      "end": 6.76,
+      "text": "I love KSA."
+    },
+    {
+      "start": 6.76,
+      "end": 7.76,
+      "text": "I love Saudi Arabia."
+    },
+    {
+      "start": 7.76,
+      "end": 10.2,
+      "text": "I've been coming here for 15 years."
+    },
+    {
+      "start": 10.2,
+      "end": 11.6,
+      "text": "This is like second home."
+    },
+    {
+      "start": 11.6,
+      "end": 16.8,
+      "text": "The evolution of this country is just amazing, especially with entrepreneurship."
+    },
+    {
+      "start": 16.8,
+      "end": 20.88,
+      "text": "And that's why I love this conference, BiBan."
+    },
+    {
+      "start": 20.88,
+      "end": 25.44,
+      "text": "I've been coming here for many years now and speaking here because it's the energy"
+    },
+    {
+      "start": 25.44,
+      "end": 26.44,
+      "text": "that you feel."
+    },
+    {
+      "start": 26.44,
+      "end": 30.36,
+      "text": "I think there's over 100,000 people that come through here in four days."
+    },
+    {
+      "start": 30.36,
+      "end": 32.16,
+      "text": "It is just an amazing energy."
+    },
+    {
+      "start": 32.16,
+      "end": 39.1,
+      "text": "Hello, everyone."
+    },
+    {
+      "start": 39.1,
+      "end": 43.22,
+      "text": "Welcome again from another episode from the podcast truck."
+    },
+    {
+      "start": 43.22,
+      "end": 44.56,
+      "text": "Today we are at BiBan."
+    },
+    {
+      "start": 44.56,
+      "end": 46.66,
+      "text": "This is the fourth day."
+    },
+    {
+      "start": 46.66,
+      "end": 56.46,
+      "text": "I am extremely honored to be hosting this episode with an amazing human being before"
+    },
+    {
+      "start": 56.46,
+      "end": 65.94,
+      "text": "We're having more than how many years of experience and how many lessons are we going"
+    },
+    {
+      "start": 65.94,
+      "end": 70.9,
+      "text": "to learn today from Dr. Perez de la Traz."
+    },
+    {
+      "start": 70.9,
+      "end": 76.26,
+      "text": "He is the Managing Director of Venture Lab and he is also the Professor of Entrepreneurship"
+    },
+    {
+      "start": 76.26,
+      "end": 82.86,
+      "text": "and Managing Director of IE Business School in Madrid, Spain, Espana."
+    },
+    {
+      "start": 82.86,
+      "end": 84.26,
+      "text": "Hello."
+    },
+    {
+      "start": 84.26,
+      "end": 85.26,
+      "text": "How are you?"
+    },
+    {
+      "start": 85.26,
+      "end": 86.26,
+      "text": "I'm good."
+    },
+    {
+      "start": 87.06,
+      "end": 91.54,
+      "text": "Please also introduce your amazing self to everyone who's watching."
+    },
+    {
+      "start": 91.54,
+      "end": 97.3,
+      "text": "So, yes, I'm a Professor of Entrepreneurship at IE University, I run the accelerator there,"
+    },
+    {
+      "start": 97.3,
+      "end": 98.3,
+      "text": "the Venture Lab."
+    },
+    {
+      "start": 98.3,
+      "end": 105.02,
+      "text": "I'm also co-founder of IBM Company and I'm also heading the Applied Innovation"
+    },
+    {
+      "start": 105.02,
+      "end": 107.02,
+      "text": "Institute in Silicon Valley."
+    },
+    {
+      "start": 107.02,
+      "end": 108.02,
+      "text": "Amazing."
+    },
+    {
+      "start": 108.02,
+      "end": 111.54,
+      "text": "How do you feel today being at BiBan?"
+    },
+    {
+      "start": 111.54,
+      "end": 112.54,
+      "text": "It's great."
+    },
+    {
+      "start": 112.54,
+      "end": 113.54,
+      "text": "I mean, I love BiBan."
+    },
+    {
+      "start": 113.54,
+      "end": 114.54,
+      "text": "I mean, I love KSA."
+    },
+    {
+      "start": 114.54,
+      "end": 115.54,
+      "text": "I love Saudi Arabia."
+    },
+    {
+      "start": 115.62,
+      "end": 118.06,
+      "text": "I've been coming here for 15 years."
+    },
+    {
+      "start": 118.06,
+      "end": 120.22,
+      "text": "This is like second home."
+    },
+    {
+      "start": 120.22,
+      "end": 121.22,
+      "text": "Amazing."
+    },
+    {
+      "start": 121.22,
+      "end": 122.22,
+      "text": "15 years."
+    },
+    {
+      "start": 122.22,
+      "end": 130.34,
+      "text": "So how is your experience today coming to Riyadh in 2025 than when you first came"
+    },
+    {
+      "start": 130.34,
+      "end": 133.14,
+      "text": "in 2010 around?"
+    },
+    {
+      "start": 133.14,
+      "end": 139.14,
+      "text": "So in 2020, we probably wouldn't be in a truck, we'd be surrounded by camels."
+    },
+    {
+      "start": 139.14,
+      "end": 140.62,
+      "text": "No, I'm only joking."
+    },
+    {
+      "start": 140.62,
+      "end": 149.26,
+      "text": "But it was, I mean, the evolution of this country is just amazing, especially with entrepreneurship."
+    },
+    {
+      "start": 149.26,
+      "end": 153.42,
+      "text": "And that's why I love this conference, BiBan."
+    },
+    {
+      "start": 153.42,
+      "end": 157.9,
+      "text": "I've been coming here for many years now and speaking here because it's the energy"
+    },
+    {
+      "start": 157.9,
+      "end": 158.9,
+      "text": "that you feel."
+    },
+    {
+      "start": 158.9,
+      "end": 162.82,
+      "text": "I think there's over 100,000 people that come through here in four days."
+    },
+    {
+      "start": 162.82,
+      "end": 164.82,
+      "text": "It is just an amazing energy."
+    },
+    {
+      "start": 164.82,
+      "end": 165.82,
+      "text": "True."
+    },
+    {
+      "start": 166.02,
+      "end": 173.9,
+      "text": "The latest statistics, they're saying that we have more than 140,000 human beings, entrepreneurs"
+    },
+    {
+      "start": 173.9,
+      "end": 174.9,
+      "text": "here."
+    },
+    {
+      "start": 174.9,
+      "end": 179.66,
+      "text": "And as you can see, there are around 50,000 watching us now."
+    },
+    {
+      "start": 179.66,
+      "end": 181.5,
+      "text": "Yes, I can see it."
+    },
+    {
+      "start": 181.5,
+      "end": 183.9,
+      "text": "It's just amazing."
+    },
+    {
+      "start": 183.9,
+      "end": 188.9,
+      "text": "The entrepreneurial spirit that you have in young people here is just crazy."
+    },
+    {
+      "start": 188.9,
+      "end": 194.3,
+      "text": "Everybody is like eager to do things, to have impact, to make Foulous."
+    },
+    {
+      "start": 194.78,
+      "end": 197.78,
+      "text": "Yes, to make Foulous."
+    },
+    {
+      "start": 197.78,
+      "end": 202.78,
+      "text": "And Foulous, you know, it's not just about, it's not a bad thing to make Foulous because"
+    },
+    {
+      "start": 202.78,
+      "end": 204.78,
+      "text": "it represents that you're having impact."
+    },
+    {
+      "start": 204.78,
+      "end": 207.78,
+      "text": "It represents that you're, you know, it's a measure of success."
+    },
+    {
+      "start": 207.78,
+      "end": 209.78,
+      "text": "Just one measure of success."
+    },
+    {
+      "start": 209.78,
+      "end": 215.78,
+      "text": "Remind me of the first salary you ever took when you started."
+    },
+    {
+      "start": 215.78,
+      "end": 218.78,
+      "text": "What was your first job?"
+    },
+    {
+      "start": 218.78,
+      "end": 220.78,
+      "text": "I studied computer science."
+    },
+    {
+      "start": 221.26,
+      "end": 227.26,
+      "text": "My bachelor's and my master's work was in computer science and my first job was in computers."
+    },
+    {
+      "start": 227.26,
+      "end": 229.26,
+      "text": "I was doing databases."
+    },
+    {
+      "start": 229.26,
+      "end": 235.26,
+      "text": "I was doing databases and it was about, I was making $2,000 a month, which was not"
+    },
+    {
+      "start": 235.26,
+      "end": 239.26,
+      "text": "a lot of money in those days in Boston."
+    },
+    {
+      "start": 239.26,
+      "end": 240.26,
+      "text": "I went to school in Boston."
+    },
+    {
+      "start": 240.26,
+      "end": 243.26,
+      "text": "I'm originally from California, but I went to school in Boston."
+    },
+    {
+      "start": 243.26,
+      "end": 250.26,
+      "text": "And that first salary, I mean, I really felt so proud of the fact that after studying"
+    },
+    {
+      "start": 250.74,
+      "end": 254.74,
+      "text": "six years, I had made that first salary."
+    },
+    {
+      "start": 254.74,
+      "end": 260.74,
+      "text": "But it took me 12 months to realize that what I had studied for six years, I didn't"
+    },
+    {
+      "start": 260.74,
+      "end": 261.74,
+      "text": "like."
+    },
+    {
+      "start": 261.74,
+      "end": 262.74,
+      "text": "Okay."
+    },
+    {
+      "start": 262.74,
+      "end": 267.74,
+      "text": "So I said to myself, Halas, I need to do something different."
+    },
+    {
+      "start": 267.74,
+      "end": 269.74,
+      "text": "And I got lucky."
+    },
+    {
+      "start": 269.74,
+      "end": 274.74,
+      "text": "My boss at the computer company that I was working at, he said to me, I want to"
+    },
+    {
+      "start": 274.74,
+      "end": 277.74,
+      "text": "raise money and I want to do a startup."
+    },
+    {
+      "start": 278.22,
+      "end": 280.22,
+      "text": "Now, if you can imagine, this is 1980."
+    },
+    {
+      "start": 280.22,
+      "end": 281.22,
+      "text": "Okay."
+    },
+    {
+      "start": 281.22,
+      "end": 284.22,
+      "text": "This is when the IBM PC came out."
+    },
+    {
+      "start": 284.22,
+      "end": 285.22,
+      "text": "Oh, my God."
+    },
+    {
+      "start": 285.22,
+      "end": 286.22,
+      "text": "You weren't even born then."
+    },
+    {
+      "start": 286.22,
+      "end": 287.22,
+      "text": "I wasn't yet."
+    },
+    {
+      "start": 287.22,
+      "end": 289.22,
+      "text": "I was born 13 years after."
+    },
+    {
+      "start": 289.22,
+      "end": 294.22,
+      "text": "So it was the IBM PC had just come out and he wanted to raise money to start"
+    },
+    {
+      "start": 294.22,
+      "end": 295.22,
+      "text": "a company."
+    },
+    {
+      "start": 295.22,
+      "end": 298.22,
+      "text": "And I went to New York City to try to raise money."
+    },
+    {
+      "start": 298.22,
+      "end": 302.22,
+      "text": "And I got involved with a VC there that invested in money in his company."
+    },
+    {
+      "start": 302.22,
+      "end": 306.22,
+      "text": "And then the VC said, we want you to work for us."
+    },
+    {
+      "start": 306.7,
+      "end": 311.7,
+      "text": "And so I moved to New York and that began my career in investment banking."
+    },
+    {
+      "start": 311.7,
+      "end": 316.7,
+      "text": "I spent 10 years in New York and 11 in London, 21 years of my life doing"
+    },
+    {
+      "start": 316.7,
+      "end": 317.7,
+      "text": "investment banking."
+    },
+    {
+      "start": 317.7,
+      "end": 323.7,
+      "text": "And how was how how was so today since we're in Beban, do you know what"
+    },
+    {
+      "start": 323.7,
+      "end": 325.7,
+      "text": "does Beban mean in English?"
+    },
+    {
+      "start": 325.7,
+      "end": 326.7,
+      "text": "Window."
+    },
+    {
+      "start": 326.7,
+      "end": 328.7,
+      "text": "You're close a little bit."
+    },
+    {
+      "start": 328.7,
+      "end": 330.7,
+      "text": "It's it's like a window."
+    },
+    {
+      "start": 330.7,
+      "end": 331.7,
+      "text": "It's a door."
+    },
+    {
+      "start": 331.7,
+      "end": 333.7,
+      "text": "So it's oh, it's a door."
+    },
+    {
+      "start": 333.7,
+      "end": 334.7,
+      "text": "Yeah."
+    },
+    {
+      "start": 334.7,
+      "end": 335.7,
+      "text": "Okay."
+    },
+    {
+      "start": 336.18,
+      "end": 338.18,
+      "text": "It's the plural of a door."
+    },
+    {
+      "start": 338.18,
+      "end": 345.18,
+      "text": "And so this is the first door that opened new horizons for you."
+    },
+    {
+      "start": 345.18,
+      "end": 346.18,
+      "text": "Correct."
+    },
+    {
+      "start": 346.18,
+      "end": 351.18,
+      "text": "Can you tell me how how did it impact your life when someone gives you a"
+    },
+    {
+      "start": 351.18,
+      "end": 352.18,
+      "text": "chance?"
+    },
+    {
+      "start": 352.18,
+      "end": 353.18,
+      "text": "How does it impact your life?"
+    },
+    {
+      "start": 353.18,
+      "end": 359.18,
+      "text": "Because I've heard a lot that you don't only speak at startups or with"
+    },
+    {
+      "start": 359.18,
+      "end": 360.18,
+      "text": "entrepreneurs."
+    },
+    {
+      "start": 360.18,
+      "end": 362.18,
+      "text": "No, you build alongside them."
+    },
+    {
+      "start": 362.66,
+      "end": 366.66,
+      "text": "And this is an amazing thing to give people an opportunity to be"
+    },
+    {
+      "start": 366.66,
+      "end": 368.66,
+      "text": "themselves and to do an impact."
+    },
+    {
+      "start": 368.66,
+      "end": 373.66,
+      "text": "How did it feel like 40 years ago?"
+    },
+    {
+      "start": 373.66,
+      "end": 374.66,
+      "text": "Right."
+    },
+    {
+      "start": 374.66,
+      "end": 375.66,
+      "text": "Forty years ago."
+    },
+    {
+      "start": 375.66,
+      "end": 376.66,
+      "text": "Forty five."
+    },
+    {
+      "start": 376.66,
+      "end": 377.66,
+      "text": "Forty five years ago."
+    },
+    {
+      "start": 377.66,
+      "end": 384.66,
+      "text": "So I started investment banking and it was a unique opportunity that"
+    },
+    {
+      "start": 384.66,
+      "end": 386.66,
+      "text": "opened up for me."
+    },
+    {
+      "start": 386.66,
+      "end": 390.66,
+      "text": "And I always tell people, you know, if you're faced with an"
+    },
+    {
+      "start": 391.14,
+      "end": 395.14,
+      "text": "opportunity and you're not sure whether you can do it, take it."
+    },
+    {
+      "start": 395.14,
+      "end": 397.14,
+      "text": "You can learn along the way."
+    },
+    {
+      "start": 397.14,
+      "end": 403.14,
+      "text": "A lot of people say to me, you know, I'm not a lucky person."
+    },
+    {
+      "start": 403.14,
+      "end": 407.14,
+      "text": "And I'm like, do you really believe that there are lucky people"
+    },
+    {
+      "start": 407.14,
+      "end": 409.14,
+      "text": "and unlucky people?"
+    },
+    {
+      "start": 409.14,
+      "end": 410.14,
+      "text": "I don't believe that."
+    },
+    {
+      "start": 410.14,
+      "end": 414.14,
+      "text": "I think that life gives us a certain amount of luck."
+    },
+    {
+      "start": 414.14,
+      "end": 415.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 415.14,
+      "end": 419.14,
+      "text": "And what's important is what do you do with that luck?"
+    },
+    {
+      "start": 419.62,
+      "end": 420.62,
+      "text": "I mean, look at you."
+    },
+    {
+      "start": 420.62,
+      "end": 423.62,
+      "text": "You're doing podcasts out of a truck."
+    },
+    {
+      "start": 423.62,
+      "end": 425.62,
+      "text": "Lucky you."
+    },
+    {
+      "start": 425.62,
+      "end": 428.62,
+      "text": "Lucky me to be here in front of you today."
+    },
+    {
+      "start": 428.62,
+      "end": 429.62,
+      "text": "I'm so honored."
+    },
+    {
+      "start": 429.62,
+      "end": 431.62,
+      "text": "You know, this is a great opportunity."
+    },
+    {
+      "start": 431.62,
+      "end": 435.62,
+      "text": "And, you know, many times people think, you know, I'm not"
+    },
+    {
+      "start": 435.62,
+      "end": 437.62,
+      "text": "going to take that opportunity."
+    },
+    {
+      "start": 437.62,
+      "end": 439.62,
+      "text": "I don't know if I can do it."
+    },
+    {
+      "start": 439.62,
+      "end": 441.62,
+      "text": "You need to be confident."
+    },
+    {
+      "start": 441.62,
+      "end": 443.62,
+      "text": "You need to be ambitious."
+    },
+    {
+      "start": 443.62,
+      "end": 445.62,
+      "text": "And, you know, I'm a professor."
+    },
+    {
+      "start": 445.62,
+      "end": 447.62,
+      "text": "I teach a lot."
+    },
+    {
+      "start": 448.1,
+      "end": 454.1,
+      "text": "I've seen over 3,500 teams of students with startup ideas."
+    },
+    {
+      "start": 454.1,
+      "end": 458.1,
+      "text": "And one of the things that I really love about young people"
+    },
+    {
+      "start": 458.1,
+      "end": 463.1,
+      "text": "is when they're ambitious, you know, and they want to, like,"
+    },
+    {
+      "start": 463.1,
+      "end": 465.1,
+      "text": "take over the world."
+    },
+    {
+      "start": 465.1,
+      "end": 467.1,
+      "text": "And, you know, I come to the Middle East a lot."
+    },
+    {
+      "start": 467.1,
+      "end": 470.1,
+      "text": "And for the last 15 years, I'm an Arabist."
+    },
+    {
+      "start": 470.1,
+      "end": 471.1,
+      "text": "You know what an Arabist is?"
+    },
+    {
+      "start": 471.1,
+      "end": 472.1,
+      "text": "Yeah."
+    },
+    {
+      "start": 472.1,
+      "end": 473.1,
+      "text": "Someone that loves the Arab world."
+    },
+    {
+      "start": 473.1,
+      "end": 474.1,
+      "text": "I love this."
+    },
+    {
+      "start": 474.1,
+      "end": 475.1,
+      "text": "And we love you, too."
+    },
+    {
+      "start": 475.58,
+      "end": 477.58,
+      "text": "But not everybody in the Middle East is the same."
+    },
+    {
+      "start": 477.58,
+      "end": 480.58,
+      "text": "You have countries, cultures that are very different."
+    },
+    {
+      "start": 480.58,
+      "end": 481.58,
+      "text": "True."
+    },
+    {
+      "start": 481.58,
+      "end": 484.58,
+      "text": "The Egyptians, they're go-getters."
+    },
+    {
+      "start": 484.58,
+      "end": 486.58,
+      "text": "They like to go after opportunities."
+    },
+    {
+      "start": 486.58,
+      "end": 489.58,
+      "text": "The Lebanese, the Lebanese are crazy."
+    },
+    {
+      "start": 489.58,
+      "end": 491.58,
+      "text": "They really go after opportunities."
+    },
+    {
+      "start": 491.58,
+      "end": 493.58,
+      "text": "The Syrians, there's a lot of Syrians now, you know,"
+    },
+    {
+      "start": 493.58,
+      "end": 496.58,
+      "text": "that you're starting to see are very entrepreneurial."
+    },
+    {
+      "start": 496.58,
+      "end": 500.58,
+      "text": "And so it's lovely to see these cultures that they look"
+    },
+    {
+      "start": 500.58,
+      "end": 502.58,
+      "text": "at business differently."
+    },
+    {
+      "start": 502.58,
+      "end": 504.58,
+      "text": "They look at the way they do business."
+    },
+    {
+      "start": 505.06,
+      "end": 507.06,
+      "text": "They look at their ambition differently."
+    },
+    {
+      "start": 507.06,
+      "end": 510.06,
+      "text": "And at the end of the day, it has a lot to do with how"
+    },
+    {
+      "start": 510.06,
+      "end": 512.06,
+      "text": "comfortable they are with uncertainty."
+    },
+    {
+      "start": 512.06,
+      "end": 515.06,
+      "text": "Why are the Lebanese so disruptive?"
+    },
+    {
+      "start": 515.06,
+      "end": 519.06,
+      "text": "Because they have to live with uncertainty all the time."
+    },
+    {
+      "start": 519.06,
+      "end": 522.06,
+      "text": "The Egyptians, to an extent as well."
+    },
+    {
+      "start": 522.06,
+      "end": 525.06,
+      "text": "But then you go to a country that's maybe more stable,"
+    },
+    {
+      "start": 525.06,
+      "end": 530.06,
+      "text": "like Kuwait or the Emirates, and they're less comfortable"
+    },
+    {
+      "start": 530.06,
+      "end": 532.06,
+      "text": "with uncertainty because they've lived a fairly"
+    },
+    {
+      "start": 532.06,
+      "end": 533.06,
+      "text": "more stable life."
+    },
+    {
+      "start": 533.06,
+      "end": 534.06,
+      "text": "Yeah, true."
+    },
+    {
+      "start": 534.54,
+      "end": 536.54,
+      "text": "Although everyone in the Middle East today is"
+    },
+    {
+      "start": 536.54,
+      "end": 538.54,
+      "text": "dealing with uncertainty."
+    },
+    {
+      "start": 538.54,
+      "end": 540.54,
+      "text": "And I think it's a healthy thing."
+    },
+    {
+      "start": 540.54,
+      "end": 542.54,
+      "text": "When you get comfortable with uncertainty,"
+    },
+    {
+      "start": 542.54,
+      "end": 545.54,
+      "text": "it's very powerful because I always say that life"
+    },
+    {
+      "start": 545.54,
+      "end": 547.54,
+      "text": "begins outside of your comfort zone."
+    },
+    {
+      "start": 547.54,
+      "end": 549.54,
+      "text": "Definitely."
+    },
+    {
+      "start": 549.54,
+      "end": 551.54,
+      "text": "And so being out of your comfort zone is so,"
+    },
+    {
+      "start": 551.54,
+      "end": 553.54,
+      "text": "you know, disruptive."
+    },
+    {
+      "start": 553.54,
+      "end": 556.54,
+      "text": "And it really changes who you are and how you"
+    },
+    {
+      "start": 556.54,
+      "end": 558.54,
+      "text": "look at life around you."
+    },
+    {
+      "start": 558.54,
+      "end": 561.54,
+      "text": "I worked in the same place for eight years and a half."
+    },
+    {
+      "start": 561.54,
+      "end": 563.54,
+      "text": "And I loved them."
+    },
+    {
+      "start": 564.02,
+      "end": 566.02,
+      "text": "So if you're watching me, I love you all."
+    },
+    {
+      "start": 566.02,
+      "end": 568.02,
+      "text": "But I was living in..."
+    },
+    {
+      "start": 568.02,
+      "end": 569.02,
+      "text": "In your comfort zone?"
+    },
+    {
+      "start": 569.02,
+      "end": 570.02,
+      "text": "Yeah."
+    },
+    {
+      "start": 570.02,
+      "end": 571.02,
+      "text": "What place was that?"
+    },
+    {
+      "start": 571.02,
+      "end": 572.02,
+      "text": "It was a TV show."
+    },
+    {
+      "start": 572.02,
+      "end": 573.02,
+      "text": "OK."
+    },
+    {
+      "start": 573.02,
+      "end": 577.02,
+      "text": "It was a TV show, an amazing TV show in Egypt."
+    },
+    {
+      "start": 577.02,
+      "end": 580.02,
+      "text": "It's called Sahebit Al Saada and it's hosted by"
+    },
+    {
+      "start": 580.02,
+      "end": 584.02,
+      "text": "an amazing spirit, human being."
+    },
+    {
+      "start": 584.02,
+      "end": 588.02,
+      "text": "Saad Yunusri is an amazing show presenter."
+    },
+    {
+      "start": 588.02,
+      "end": 589.02,
+      "text": "She's an actress."
+    },
+    {
+      "start": 589.02,
+      "end": 590.02,
+      "text": "She's a producer."
+    },
+    {
+      "start": 590.02,
+      "end": 592.02,
+      "text": "She's an amazing mom, grandmother."
+    },
+    {
+      "start": 592.5,
+      "end": 593.5,
+      "text": "I love her."
+    },
+    {
+      "start": 593.5,
+      "end": 595.5,
+      "text": "But I had to..."
+    },
+    {
+      "start": 595.5,
+      "end": 598.5,
+      "text": "I had to leave because I felt that, yeah,"
+    },
+    {
+      "start": 598.5,
+      "end": 599.5,
+      "text": "I'm in my comfort zone."
+    },
+    {
+      "start": 600.0,
+      "end": 604.0,
+      "text": "I'm in my comfort zone with my friends and I wanted to grow."
+    },
+    {
+      "start": 604.0,
+      "end": 605.32,
+      "text": "I wanted to spread my wings."
+    },
+    {
+      "start": 605.32,
+      "end": 607.72,
+      "text": "You're not growing when you're in your comfort zone."
+    },
+    {
+      "start": 607.72,
+      "end": 611.4,
+      "text": "If I wouldn't have taken this decision around three,"
+    },
+    {
+      "start": 611.4,
+      "end": 612.56,
+      "text": "more than three years ago,"
+    },
+    {
+      "start": 612.56,
+      "end": 614.48,
+      "text": "I wouldn't be with you in the same podcast"
+    },
+    {
+      "start": 614.48,
+      "end": 617.92,
+      "text": "struck here at Vipan in South Arabia and Riyadh."
+    },
+    {
+      "start": 617.92,
+      "end": 619.88,
+      "text": "I'm glad you took that decision."
+    },
+    {
+      "start": 619.88,
+      "end": 622.2,
+      "text": "I'm glad, Hamdallah."
+    },
+    {
+      "start": 622.2,
+      "end": 623.96,
+      "text": "I want to ask you a question."
+    },
+    {
+      "start": 625.04,
+      "end": 629.2,
+      "text": "You are very, very multi-cultured"
+    },
+    {
+      "start": 629.2,
+      "end": 631.44,
+      "text": "and I love that you said that you're an Arabist"
+    },
+    {
+      "start": 631.44,
+      "end": 634.16,
+      "text": "and I love that you..."
+    },
+    {
+      "start": 634.16,
+      "end": 635.96,
+      "text": "So when we were speaking of your name,"
+    },
+    {
+      "start": 635.96,
+      "end": 637.72,
+      "text": "I wanted to make sure how to pronounce it."
+    },
+    {
+      "start": 637.72,
+      "end": 639.84,
+      "text": "You told me it's Swiss actually"
+    },
+    {
+      "start": 639.84,
+      "end": 642.92,
+      "text": "and you've worked in London, California,"
+    },
+    {
+      "start": 642.92,
+      "end": 646.6,
+      "text": "Boston, Madrid, Spain, you're here."
+    },
+    {
+      "start": 646.6,
+      "end": 650.72,
+      "text": "Tell me more about how can one actually grow"
+    },
+    {
+      "start": 650.72,
+      "end": 652.8,
+      "text": "when he's surrounded by different cultures"
+    },
+    {
+      "start": 652.8,
+      "end": 654.64,
+      "text": "and people and not only one,"
+    },
+    {
+      "start": 654.64,
+      "end": 658.32,
+      "text": "how can an entrepreneur grow when he's multi-cultured?"
+    },
+    {
+      "start": 659.56,
+      "end": 663.24,
+      "text": "Well, I think actually it's an asset to be multi-cultured"
+    },
+    {
+      "start": 663.24,
+      "end": 668.04,
+      "text": "because every culture has pluses and minuses"
+    },
+    {
+      "start": 668.04,
+      "end": 670.56,
+      "text": "and we can learn from cultures."
+    },
+    {
+      "start": 670.56,
+      "end": 674.12,
+      "text": "So I'm American, but I've learned so much from..."
+    },
+    {
+      "start": 674.12,
+      "end": 676.8,
+      "text": "I live in Spain from the Spanish culture."
+    },
+    {
+      "start": 676.8,
+      "end": 679.6800000000001,
+      "text": "I've learned from the Middle Eastern culture."
+    },
+    {
+      "start": 680.88,
+      "end": 683.56,
+      "text": "And so when you're multi-cultured,"
+    },
+    {
+      "start": 683.56,
+      "end": 687.96,
+      "text": "usually you have a lot of emotional intelligence"
+    },
+    {
+      "start": 688.0,
+      "end": 690.0,
+      "text": "and today, emotional intelligence"
+    },
+    {
+      "start": 690.0,
+      "end": 692.96,
+      "text": "is probably one of the most important factors"
+    },
+    {
+      "start": 692.96,
+      "end": 696.36,
+      "text": "in your ability to grow, even within a company."
+    },
+    {
+      "start": 696.36,
+      "end": 698.08,
+      "text": "And then when you're an entrepreneur,"
+    },
+    {
+      "start": 698.08,
+      "end": 700.48,
+      "text": "you need emotional intelligence."
+    },
+    {
+      "start": 700.48,
+      "end": 703.44,
+      "text": "And so what I like to tell my students"
+    },
+    {
+      "start": 703.44,
+      "end": 706.72,
+      "text": "is that they need to be able to master the rhetoric."
+    },
+    {
+      "start": 706.72,
+      "end": 708.2,
+      "text": "I don't know if you know what rhetoric means,"
+    },
+    {
+      "start": 708.2,
+      "end": 710.16,
+      "text": "but it's a Greek term."
+    },
+    {
+      "start": 710.16,
+      "end": 711.4,
+      "text": "Rhetoric has three parts."
+    },
+    {
+      "start": 711.4,
+      "end": 714.36,
+      "text": "It's logos, ethos, and pathos."
+    },
+    {
+      "start": 714.36,
+      "end": 715.3199999999999,
+      "text": "Very good."
+    },
+    {
+      "start": 715.3199999999999,
+      "end": 717.4,
+      "text": "I studied this."
+    },
+    {
+      "start": 717.4,
+      "end": 721.16,
+      "text": "So logos is the arguments that we make."
+    },
+    {
+      "start": 721.16,
+      "end": 725.24,
+      "text": "Like you say that, you know, I'll give you an example."
+    },
+    {
+      "start": 725.24,
+      "end": 729.6800000000001,
+      "text": "When Steve Jobs introduced the iPhone,"
+    },
+    {
+      "start": 729.6800000000001,
+      "end": 732.44,
+      "text": "he could have said, this is a device"
+    },
+    {
+      "start": 732.44,
+      "end": 734.12,
+      "text": "that allows you to search the web,"
+    },
+    {
+      "start": 734.12,
+      "end": 736.6,
+      "text": "take pictures, and make calls."
+    },
+    {
+      "start": 736.6,
+      "end": 740.4,
+      "text": "Pure logos, arguments, engineering arguments."
+    },
+    {
+      "start": 741.52,
+      "end": 743.36,
+      "text": "Ethos is your credibility."
+    },
+    {
+      "start": 743.36,
+      "end": 744.3199999999999,
+      "text": "He was very credible."
+    },
+    {
+      "start": 744.3199999999999,
+      "end": 746.88,
+      "text": "He was president of Apple."
+    },
+    {
+      "start": 746.92,
+      "end": 751.36,
+      "text": "But pathos is the emotions that you stir in the people."
+    },
+    {
+      "start": 751.36,
+      "end": 754.12,
+      "text": "And so he didn't get up there in 2009"
+    },
+    {
+      "start": 754.12,
+      "end": 756.4,
+      "text": "at that famous beach and say,"
+    },
+    {
+      "start": 756.4,
+      "end": 758.64,
+      "text": "this is a device that can take pictures,"
+    },
+    {
+      "start": 758.64,
+      "end": 760.52,
+      "text": "search the web, and make calls."
+    },
+    {
+      "start": 760.52,
+      "end": 761.88,
+      "text": "He got up there and he said,"
+    },
+    {
+      "start": 761.88,
+      "end": 763.84,
+      "text": "do you see this device?"
+    },
+    {
+      "start": 763.84,
+      "end": 765.44,
+      "text": "It's gonna change your life."
+    },
+    {
+      "start": 765.44,
+      "end": 766.4,
+      "text": "Yes."
+    },
+    {
+      "start": 766.4,
+      "end": 768.48,
+      "text": "That is pure pathos."
+    },
+    {
+      "start": 768.48,
+      "end": 770.72,
+      "text": "And we need to dream."
+    },
+    {
+      "start": 770.72,
+      "end": 773.64,
+      "text": "We need to dream in our lives."
+    },
+    {
+      "start": 773.64,
+      "end": 774.72,
+      "text": "My father always said to me,"
+    },
+    {
+      "start": 774.72,
+      "end": 777.6,
+      "text": "the day that you don't have a dream, you die."
+    },
+    {
+      "start": 777.6,
+      "end": 779.28,
+      "text": "And now we're living in a world"
+    },
+    {
+      "start": 779.28,
+      "end": 781.52,
+      "text": "that is being disrupted by AI."
+    },
+    {
+      "start": 782.72,
+      "end": 785.36,
+      "text": "And many of my students are very worried."
+    },
+    {
+      "start": 785.36,
+      "end": 787.4,
+      "text": "How can I be future proof?"
+    },
+    {
+      "start": 787.4,
+      "end": 788.24,
+      "text": "Yeah."
+    },
+    {
+      "start": 788.24,
+      "end": 789.56,
+      "text": "Well, let me tell you,"
+    },
+    {
+      "start": 789.56,
+      "end": 794.56,
+      "text": "AI will never take over the human spirit of rhetoric,"
+    },
+    {
+      "start": 794.96,
+      "end": 797.4,
+      "text": "the ability to persuade others,"
+    },
+    {
+      "start": 797.4,
+      "end": 800.92,
+      "text": "to inspire, to have people have faith in you."
+    },
+    {
+      "start": 800.92,
+      "end": 802.92,
+      "text": "Leaders, leadership,"
+    },
+    {
+      "start": 802.92,
+      "end": 805.44,
+      "text": "all those things will never be replaced by AI."
+    },
+    {
+      "start": 805.44,
+      "end": 806.28,
+      "text": "And so today,"
+    },
+    {
+      "start": 806.28,
+      "end": 808.6800000000001,
+      "text": "when I see my students making presentations,"
+    },
+    {
+      "start": 808.6800000000001,
+      "end": 812.72,
+      "text": "they make incredible slides, data, all that."
+    },
+    {
+      "start": 812.72,
+      "end": 814.12,
+      "text": "It's all done by AI."
+    },
+    {
+      "start": 814.12,
+      "end": 817.44,
+      "text": "But when they have to stand in front of the audience,"
+    },
+    {
+      "start": 817.44,
+      "end": 818.96,
+      "text": "they're alone there."
+    },
+    {
+      "start": 818.96,
+      "end": 822.0,
+      "text": "And that's when you're in front of humanity"
+    },
+    {
+      "start": 822.0,
+      "end": 824.88,
+      "text": "and you need to show what you're made of."
+    },
+    {
+      "start": 824.88,
+      "end": 826.76,
+      "text": "And that will never be replaced by AI."
+    },
+    {
+      "start": 827.76,
+      "end": 829.24,
+      "text": "That's very reassuring"
+    },
+    {
+      "start": 829.24,
+      "end": 832.64,
+      "text": "because we were having this very quick chat"
+    },
+    {
+      "start": 832.64,
+      "end": 834.6800000000001,
+      "text": "with your colleague now, right?"
+    },
+    {
+      "start": 834.6800000000001,
+      "end": 836.36,
+      "text": "Before we start."
+    },
+    {
+      "start": 836.36,
+      "end": 838.72,
+      "text": "And she's a master of AI."
+    },
+    {
+      "start": 838.72,
+      "end": 841.08,
+      "text": "And I'm very afraid of AI."
+    },
+    {
+      "start": 841.08,
+      "end": 841.92,
+      "text": "She's a geek."
+    },
+    {
+      "start": 841.92,
+      "end": 842.74,
+      "text": "She's a geek."
+    },
+    {
+      "start": 842.74,
+      "end": 843.58,
+      "text": "That's amazing."
+    },
+    {
+      "start": 843.58,
+      "end": 845.3199999999999,
+      "text": "We have a company, it's called Geek Peak."
+    },
+    {
+      "start": 845.3199999999999,
+      "end": 849.52,
+      "text": "It's for like virtual stuff with CG and AI integrated."
+    },
+    {
+      "start": 849.52,
+      "end": 852.16,
+      "text": "I should introduce her to the team."
+    },
+    {
+      "start": 852.16,
+      "end": 854.92,
+      "text": "But AI,"
+    },
+    {
+      "start": 854.92,
+      "end": 857.12,
+      "text": "so actually you're the second person"
+    },
+    {
+      "start": 857.12,
+      "end": 859.12,
+      "text": "that I interview in Biban."
+    },
+    {
+      "start": 859.12,
+      "end": 862.52,
+      "text": "And they mentioned the term emotional intelligence."
+    },
+    {
+      "start": 863.4,
+      "end": 865.6800000000001,
+      "text": "And you know that I haven't heard it"
+    },
+    {
+      "start": 865.6800000000001,
+      "end": 867.6,
+      "text": "for more than a year and a half."
+    },
+    {
+      "start": 867.6,
+      "end": 868.44,
+      "text": "Really?"
+    },
+    {
+      "start": 868.44,
+      "end": 869.28,
+      "text": "I haven't."
+    },
+    {
+      "start": 869.28,
+      "end": 870.88,
+      "text": "No one is speaking about EQ."
+    },
+    {
+      "start": 870.88,
+      "end": 872.0,
+      "text": "No one."
+    },
+    {
+      "start": 872.0,
+      "end": 872.8399999999999,
+      "text": "It's so important."
+    },
+    {
+      "start": 872.8399999999999,
+      "end": 876.1600000000001,
+      "text": "Yes, because all we're speaking of now is AI."
+    },
+    {
+      "start": 876.1600000000001,
+      "end": 878.44,
+      "text": "And I don't mind it if, as you said,"
+    },
+    {
+      "start": 878.44,
+      "end": 881.2,
+      "text": "if it's controlled, if I know how to use it."
+    },
+    {
+      "start": 881.2,
+      "end": 886.2,
+      "text": "But speaking of AI,"
+    },
+    {
+      "start": 888.9200000000001,
+      "end": 892.44,
+      "text": "how do you see, how much are you supporting"
+    },
+    {
+      "start": 893.36,
+      "end": 894.76,
+      "text": "entrepreneurs that are actually infusing AI"
+    },
+    {
+      "start": 894.76,
+      "end": 898.8399999999999,
+      "text": "in their schemes or in their industries?"
+    },
+    {
+      "start": 898.8399999999999,
+      "end": 899.6800000000001,
+      "text": "Tremendously."
+    },
+    {
+      "start": 899.6800000000001,
+      "end": 901.04,
+      "text": "We need to leverage AI."
+    },
+    {
+      "start": 902.28,
+      "end": 903.8,
+      "text": "AI is here to stay."
+    },
+    {
+      "start": 903.8,
+      "end": 908.0,
+      "text": "And it is a tremendous asset that we have"
+    },
+    {
+      "start": 908.0,
+      "end": 910.88,
+      "text": "in order to be more productive,"
+    },
+    {
+      "start": 910.88,
+      "end": 914.28,
+      "text": "find cures to diseases, all kinds of things."
+    },
+    {
+      "start": 914.28,
+      "end": 916.12,
+      "text": "But the problem is not AI."
+    },
+    {
+      "start": 916.12,
+      "end": 918.96,
+      "text": "The problem is how we use AI."
+    },
+    {
+      "start": 918.96,
+      "end": 921.9200000000001,
+      "text": "And what we're finding is that about 60% of the class"
+    },
+    {
+      "start": 921.9200000000001,
+      "end": 925.24,
+      "text": "is getting dumber and lazier using AI."
+    },
+    {
+      "start": 925.24,
+      "end": 927.88,
+      "text": "The other 40% are really taking off."
+    },
+    {
+      "start": 927.88,
+      "end": 932.1600000000001,
+      "text": "So, you know, and this term is called cognitive offloading."
+    },
+    {
+      "start": 932.1600000000001,
+      "end": 935.52,
+      "text": "I have a TEDx talk on my LinkedIn that you can see on that."
+    },
+    {
+      "start": 935.52,
+      "end": 938.8399999999999,
+      "text": "But essentially, we're trying to create a sense of urgency"
+    },
+    {
+      "start": 938.8399999999999,
+      "end": 941.88,
+      "text": "because if 60% of the class in universities,"
+    },
+    {
+      "start": 941.88,
+      "end": 943.52,
+      "text": "and we've seen it here in Saudi Arabia,"
+    },
+    {
+      "start": 943.52,
+      "end": 945.76,
+      "text": "we've seen it in the US and Europe,"
+    },
+    {
+      "start": 945.76,
+      "end": 946.6,
+      "text": "it's a reality."
+    },
+    {
+      "start": 946.6,
+      "end": 950.12,
+      "text": "60% of the class is getting dumber and lazier."
+    },
+    {
+      "start": 950.1600000000001,
+      "end": 953.9200000000001,
+      "text": "If you don't use your brain, you lose it."
+    },
+    {
+      "start": 953.9200000000001,
+      "end": 954.88,
+      "text": "It's like a must."
+    },
+    {
+      "start": 954.88,
+      "end": 955.72,
+      "text": "Yeah."
+    },
+    {
+      "start": 955.72,
+      "end": 958.9200000000001,
+      "text": "And so we need to teach young people"
+    },
+    {
+      "start": 958.9200000000001,
+      "end": 960.56,
+      "text": "to do critical thinking."
+    },
+    {
+      "start": 960.56,
+      "end": 961.6,
+      "text": "Yes."
+    },
+    {
+      "start": 961.6,
+      "end": 964.0,
+      "text": "You went to school before AI."
+    },
+    {
+      "start": 964.0,
+      "end": 964.8399999999999,
+      "text": "Yeah."
+    },
+    {
+      "start": 964.8399999999999,
+      "end": 965.76,
+      "text": "So you had to do critical thinking."
+    },
+    {
+      "start": 965.76,
+      "end": 966.96,
+      "text": "So did I."
+    },
+    {
+      "start": 966.96,
+      "end": 969.72,
+      "text": "But today, if you're a young person in school,"
+    },
+    {
+      "start": 969.72,
+      "end": 971.6,
+      "text": "you don't need to do critical thinking."
+    },
+    {
+      "start": 971.6,
+      "end": 973.3199999999999,
+      "text": "You can let AI do it for you."
+    },
+    {
+      "start": 973.3199999999999,
+      "end": 976.8399999999999,
+      "text": "And so you've never learned to use your brain."
+    },
+    {
+      "start": 976.8399999999999,
+      "end": 979.72,
+      "text": "Your brain, which is needed, which is amazing."
+    },
+    {
+      "start": 979.72,
+      "end": 980.24,
+      "text": "Exactly."
+    },
+    {
+      "start": 980.24,
+      "end": 984.9200000000001,
+      "text": "So this is like a drug if you don't control it."
+    },
+    {
+      "start": 984.9200000000001,
+      "end": 987.72,
+      "text": "And so we're here trying to create a sense of urgency."
+    },
+    {
+      "start": 987.72,
+      "end": 990.3199999999999,
+      "text": "We're talking to a lot of different people."
+    },
+    {
+      "start": 990.3199999999999,
+      "end": 993.48,
+      "text": "We're trying to create a movement around the right use"
+    },
+    {
+      "start": 993.48,
+      "end": 995.6800000000001,
+      "text": "of AI, the ethical use of AI."
+    },
+    {
+      "start": 995.6800000000001,
+      "end": 997.72,
+      "text": "Because otherwise, we run the risk"
+    },
+    {
+      "start": 997.72,
+      "end": 1001.24,
+      "text": "of losing generations of people."
+    },
+    {
+      "start": 1001.24,
+      "end": 1002.0799999999999,
+      "text": "I totally agree."
+    },
+    {
+      "start": 1002.0799999999999,
+      "end": 1003.72,
+      "text": "And it's hitting me to the core"
+    },
+    {
+      "start": 1003.72,
+      "end": 1007.04,
+      "text": "because once, like, you know, when child GPT started"
+    },
+    {
+      "start": 1007.04,
+      "end": 1011.72,
+      "text": "to become part of our lives, yes, we kind of used it"
+    },
+    {
+      "start": 1011.72,
+      "end": 1013.28,
+      "text": "in the beginning."
+    },
+    {
+      "start": 1013.28,
+      "end": 1018.72,
+      "text": "But I felt that the time I'm spending on finishing a task,"
+    },
+    {
+      "start": 1018.72,
+      "end": 1022.72,
+      "text": "if I was working on a task that takes five days,"
+    },
+    {
+      "start": 1022.72,
+      "end": 1026.4,
+      "text": "I can now finish it in less than a day."
+    },
+    {
+      "start": 1026.4,
+      "end": 1028.92,
+      "text": "But yes, I'm honest."
+    },
+    {
+      "start": 1028.92,
+      "end": 1031.76,
+      "text": "I felt so very lazy."
+    },
+    {
+      "start": 1031.76,
+      "end": 1033.12,
+      "text": "I felt so very dumb."
+    },
+    {
+      "start": 1033.32,
+      "end": 1034.4,
+      "text": "Posture syndrome."
+    },
+    {
+      "start": 1034.4,
+      "end": 1035.12,
+      "text": "Yeah."
+    },
+    {
+      "start": 1035.12,
+      "end": 1037.04,
+      "text": "When you feel like, oh, my God, what have I done?"
+    },
+    {
+      "start": 1037.04,
+      "end": 1037.72,
+      "text": "I didn't do it."
+    },
+    {
+      "start": 1037.72,
+      "end": 1039.12,
+      "text": "Yeah."
+    },
+    {
+      "start": 1039.12,
+      "end": 1041.92,
+      "text": "So did you look me up using chat GPT before?"
+    },
+    {
+      "start": 1041.92,
+      "end": 1043.4,
+      "text": "No, actually, no."
+    },
+    {
+      "start": 1043.4,
+      "end": 1045.84,
+      "text": "I looked to normally I searched the web."
+    },
+    {
+      "start": 1045.84,
+      "end": 1047.48,
+      "text": "I swear I even have them."
+    },
+    {
+      "start": 1047.48,
+      "end": 1047.88,
+      "text": "Sure."
+    },
+    {
+      "start": 1047.88,
+      "end": 1048.28,
+      "text": "Yeah."
+    },
+    {
+      "start": 1048.28,
+      "end": 1049.8,
+      "text": "I even have them open."
+    },
+    {
+      "start": 1049.8,
+      "end": 1055.3600000000001,
+      "text": "What I opened is actually a very long article"
+    },
+    {
+      "start": 1055.3600000000001,
+      "end": 1057.96,
+      "text": "about your presence on social media on LinkedIn"
+    },
+    {
+      "start": 1057.96,
+      "end": 1060.68,
+      "text": "and on Twitter and on X."
+    },
+    {
+      "start": 1060.68,
+      "end": 1061.76,
+      "text": "And this is what I learned."
+    },
+    {
+      "start": 1061.76,
+      "end": 1063.8,
+      "text": "And I opened your LinkedIn profile"
+    },
+    {
+      "start": 1063.8,
+      "end": 1067.72,
+      "text": "because I wanted to see the human behind the professor."
+    },
+    {
+      "start": 1067.72,
+      "end": 1071.44,
+      "text": "And I saw a lot of amazing and amazing pictures"
+    },
+    {
+      "start": 1071.44,
+      "end": 1074.88,
+      "text": "for you with your colleagues, people you meet,"
+    },
+    {
+      "start": 1074.88,
+      "end": 1076.3600000000001,
+      "text": "your alumni."
+    },
+    {
+      "start": 1076.3600000000001,
+      "end": 1079.2,
+      "text": "And I'm actually waiting for our selfie"
+    },
+    {
+      "start": 1079.2,
+      "end": 1082.12,
+      "text": "inside the podcast track so that we post it later on."
+    },
+    {
+      "start": 1082.12,
+      "end": 1082.68,
+      "text": "Great."
+    },
+    {
+      "start": 1082.68,
+      "end": 1084.6399999999999,
+      "text": "And so no, I did not."
+    },
+    {
+      "start": 1084.6399999999999,
+      "end": 1086.6399999999999,
+      "text": "Yeah, no, it's very important."
+    },
+    {
+      "start": 1086.6399999999999,
+      "end": 1089.88,
+      "text": "The ethical use of AI is very important today."
+    },
+    {
+      "start": 1089.88,
+      "end": 1091.24,
+      "text": "But we need to embrace it."
+    },
+    {
+      "start": 1091.24,
+      "end": 1093.24,
+      "text": "AI is the future."
+    },
+    {
+      "start": 1093.24,
+      "end": 1095.84,
+      "text": "We were speaking of something pretty nice and amazing."
+    },
+    {
+      "start": 1095.84,
+      "end": 1097.28,
+      "text": "And I want you to explain it."
+    },
+    {
+      "start": 1097.28,
+      "end": 1102.3600000000001,
+      "text": "What's your theory of the Monday and Friday people?"
+    },
+    {
+      "start": 1102.3600000000001,
+      "end": 1107.6399999999999,
+      "text": "So yeah, in my school, I am known for telling people"
+    },
+    {
+      "start": 1107.6399999999999,
+      "end": 1110.6,
+      "text": "that there's two types of people in the world."
+    },
+    {
+      "start": 1110.6,
+      "end": 1113.76,
+      "text": "Friday people and Monday people."
+    },
+    {
+      "start": 1113.76,
+      "end": 1116.6399999999999,
+      "text": "Friday people hate what they do all week."
+    },
+    {
+      "start": 1116.6399999999999,
+      "end": 1120.1599999999999,
+      "text": "Monday people look forward to Mondays."
+    },
+    {
+      "start": 1120.1599999999999,
+      "end": 1123.04,
+      "text": "In your language, it's Thursday people and Sunday people."
+    },
+    {
+      "start": 1123.04,
+      "end": 1124.6799999999998,
+      "text": "Yeah, true."
+    },
+    {
+      "start": 1124.6799999999998,
+      "end": 1129.6799999999998,
+      "text": "80% of the world are Friday people."
+    },
+    {
+      "start": 1129.6799999999998,
+      "end": 1131.28,
+      "text": "I mean, it's so sad."
+    },
+    {
+      "start": 1131.28,
+      "end": 1135.8400000000001,
+      "text": "But you were at your last job eight years."
+    },
+    {
+      "start": 1135.8400000000001,
+      "end": 1137.96,
+      "text": "Maybe when you left, you realized"
+    },
+    {
+      "start": 1137.96,
+      "end": 1140.08,
+      "text": "that you'd had to get out of your comfort zone."
+    },
+    {
+      "start": 1140.08,
+      "end": 1144.3600000000001,
+      "text": "But maybe you had also become a Friday person."
+    },
+    {
+      "start": 1144.3600000000001,
+      "end": 1145.2,
+      "text": "I might have."
+    },
+    {
+      "start": 1145.2,
+      "end": 1146.88,
+      "text": "I haven't."
+    },
+    {
+      "start": 1146.88,
+      "end": 1149.72,
+      "text": "Where you were looking forward to the weekend."
+    },
+    {
+      "start": 1150.72,
+      "end": 1153.12,
+      "text": "We're living in a world where people"
+    },
+    {
+      "start": 1153.12,
+      "end": 1157.04,
+      "text": "are looking for meaning in their lives more than ever before."
+    },
+    {
+      "start": 1157.04,
+      "end": 1161.28,
+      "text": "And your job is 40% of your life."
+    },
+    {
+      "start": 1161.28,
+      "end": 1164.0,
+      "text": "So if you're a Friday person at work,"
+    },
+    {
+      "start": 1164.0,
+      "end": 1166.72,
+      "text": "it's the saddest thing in the world."
+    },
+    {
+      "start": 1166.72,
+      "end": 1171.56,
+      "text": "And so I'm trying to encourage my students everywhere"
+    },
+    {
+      "start": 1171.56,
+      "end": 1176.28,
+      "text": "to and everyone that life's too short to be a Friday"
+    },
+    {
+      "start": 1176.28,
+      "end": 1177.52,
+      "text": "person."
+    },
+    {
+      "start": 1177.56,
+      "end": 1181.12,
+      "text": "You need to find a way to really enjoy what you're doing."
+    },
+    {
+      "start": 1181.12,
+      "end": 1182.8400000000001,
+      "text": "Because when you enjoy what you're doing,"
+    },
+    {
+      "start": 1182.8400000000001,
+      "end": 1184.6,
+      "text": "it doesn't feel like work."
+    },
+    {
+      "start": 1184.6,
+      "end": 1187.56,
+      "text": "Yes, I totally agree."
+    },
+    {
+      "start": 1187.56,
+      "end": 1188.4,
+      "text": "I mean, look at you."
+    },
+    {
+      "start": 1188.4,
+      "end": 1189.88,
+      "text": "You're not working right now, are you?"
+    },
+    {
+      "start": 1189.88,
+      "end": 1190.2,
+      "text": "No."
+    },
+    {
+      "start": 1190.2,
+      "end": 1191.04,
+      "text": "You're having fun."
+    },
+    {
+      "start": 1191.04,
+      "end": 1193.24,
+      "text": "I'm having fun."
+    },
+    {
+      "start": 1193.24,
+      "end": 1196.2,
+      "text": "I've had fun since the very first day I worked."
+    },
+    {
+      "start": 1196.2,
+      "end": 1196.92,
+      "text": "Wallah."
+    },
+    {
+      "start": 1196.92,
+      "end": 1197.6799999999998,
+      "text": "Wallah."
+    },
+    {
+      "start": 1197.6799999999998,
+      "end": 1199.0,
+      "text": "You know something?"
+    },
+    {
+      "start": 1199.0,
+      "end": 1200.0,
+      "text": "When you said that."
+    },
+    {
+      "start": 1200.0,
+      "end": 1204.6,
+      "text": "If you don't have, if you don't dream every day, your, your, your father's saying,"
+    },
+    {
+      "start": 1205.24,
+      "end": 1207.56,
+      "text": "my first dream was when I was seven years old."
+    },
+    {
+      "start": 1207.72,
+      "end": 1212.2,
+      "text": "I always wanted to become the next middle Eastern Oprah Winfrey."
+    },
+    {
+      "start": 1213.08,
+      "end": 1214.6,
+      "text": "This has been never too late."
+    },
+    {
+      "start": 1214.96,
+      "end": 1216.08,
+      "text": "It's never too late."
+    },
+    {
+      "start": 1216.44,
+      "end": 1224.52,
+      "text": "So I swear to God since, since then, every decision I made in life, whether"
+    },
+    {
+      "start": 1224.8,
+      "end": 1229.48,
+      "text": "what I studied, where I went out, the extra curricular activities, I,"
+    },
+    {
+      "start": 1229.76,
+      "end": 1235.84,
+      "text": "I made in university, places I've been is all to build to that moment where I get"
+    },
+    {
+      "start": 1235.84,
+      "end": 1238.32,
+      "text": "to be interviewing people."
+    },
+    {
+      "start": 1238.48,
+      "end": 1241.88,
+      "text": "I tried, I failed, I tried, I failed."
+    },
+    {
+      "start": 1243.28,
+      "end": 1244.12,
+      "text": "It's never too late."
+    },
+    {
+      "start": 1244.16,
+      "end": 1244.84,
+      "text": "It's never too late."
+    },
+    {
+      "start": 1244.88,
+      "end": 1249.8,
+      "text": "I don't want to be the next Middle Eastern or Arab Oprah Winfrey."
+    },
+    {
+      "start": 1249.8,
+      "end": 1252.04,
+      "text": "I want to be a very good version of myself."
+    },
+    {
+      "start": 1252.12,
+      "end": 1252.56,
+      "text": "Exactly."
+    },
+    {
+      "start": 1252.68,
+      "end": 1254.12,
+      "text": "You don't need to replicate anyone."
+    },
+    {
+      "start": 1254.52,
+      "end": 1258.4,
+      "text": "This is, this is something I learned by time when I actually grew."
+    },
+    {
+      "start": 1259.48,
+      "end": 1260.44,
+      "text": "I love Oprah."
+    },
+    {
+      "start": 1260.52,
+      "end": 1266.2,
+      "text": "I loved her so much, but then I also love being a normal human interviewing"
+    },
+    {
+      "start": 1266.2,
+      "end": 1267.36,
+      "text": "people for what they love."
+    },
+    {
+      "start": 1267.64,
+      "end": 1267.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 1267.92,
+      "end": 1274.72,
+      "text": "So getting back to the Monday and Friday, you've always been a Monday type of"
+    },
+    {
+      "start": 1274.72,
+      "end": 1275.68,
+      "text": "No, not always."
+    },
+    {
+      "start": 1276.04,
+      "end": 1280.8,
+      "text": "Well, so I, I was an investment banker for 21 years."
+    },
+    {
+      "start": 1280.84,
+      "end": 1284.8,
+      "text": "And then at the age of 42, I became a Friday person."
+    },
+    {
+      "start": 1285.16,
+      "end": 1288.88,
+      "text": "So I said, I got to do something else."
+    },
+    {
+      "start": 1289.4,
+      "end": 1291.28,
+      "text": "I became an entrepreneur for eight years."
+    },
+    {
+      "start": 1291.8,
+      "end": 1292.96,
+      "text": "I loved what I was doing."
+    },
+    {
+      "start": 1292.96,
+      "end": 1296.0,
+      "text": "And then after eight years, again, I became a Friday person."
+    },
+    {
+      "start": 1296.44,
+      "end": 1300.04,
+      "text": "So I said, I got my PhD and became a professor."
+    },
+    {
+      "start": 1300.2,
+      "end": 1300.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 1301.0,
+      "end": 1302.44,
+      "text": "And so now I love what I do."
+    },
+    {
+      "start": 1302.44,
+      "end": 1307.44,
+      "text": "I love being a professor, but I've changed careers three times in my life."
+    },
+    {
+      "start": 1307.48,
+      "end": 1307.8,
+      "text": "Yeah."
+    },
+    {
+      "start": 1308.24,
+      "end": 1312.4,
+      "text": "And if you notice from investment banking to entrepreneur, to professor,"
+    },
+    {
+      "start": 1313.28,
+      "end": 1317.0,
+      "text": "every time I change careers, I make less for loose."
+    },
+    {
+      "start": 1317.36,
+      "end": 1317.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 1319.12,
+      "end": 1325.04,
+      "text": "Well, today as a professor, my few fellows, you know, professors don't"
+    },
+    {
+      "start": 1325.04,
+      "end": 1326.72,
+      "text": "make any money, but you know what?"
+    },
+    {
+      "start": 1327.64,
+      "end": 1328.88,
+      "text": "It's not all about the money."
+    },
+    {
+      "start": 1329.8,
+      "end": 1331.2,
+      "text": "They can't be all about the money."
+    },
+    {
+      "start": 1331.2,
+      "end": 1335.24,
+      "text": "And this is the other thing that I love about the younger generation is"
+    },
+    {
+      "start": 1335.24,
+      "end": 1337.8,
+      "text": "that they want more from their lives."
+    },
+    {
+      "start": 1338.24,
+      "end": 1342.32,
+      "text": "See my generation, it was all about the money, making more money, making"
+    },
+    {
+      "start": 1342.32,
+      "end": 1347.12,
+      "text": "more money, but young people today, even yourself, you're a, you're a"
+    },
+    {
+      "start": 1347.12,
+      "end": 1347.92,
+      "text": "millennial, right?"
+    },
+    {
+      "start": 1348.28,
+      "end": 1349.24,
+      "text": "I am a millennial."
+    },
+    {
+      "start": 1349.28,
+      "end": 1349.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 1349.48,
+      "end": 1350.12,
+      "text": "You're a millennial."
+    },
+    {
+      "start": 1350.6399999999999,
+      "end": 1356.56,
+      "text": "You want a job that gives you purpose, gives you meaning and the money is"
+    },
+    {
+      "start": 1356.56,
+      "end": 1358.56,
+      "text": "good, but the money will come."
+    },
+    {
+      "start": 1358.96,
+      "end": 1360.96,
+      "text": "But the money is not the most important thing."
+    },
+    {
+      "start": 1361.56,
+      "end": 1365.84,
+      "text": "And so I really respect that in young people today because I think again,"
+    },
+    {
+      "start": 1366.3600000000001,
+      "end": 1370.88,
+      "text": "um, being a Monday person is about, you know, waking up in the morning"
+    },
+    {
+      "start": 1370.88,
+      "end": 1375.12,
+      "text": "and looking forward to what you're doing and it can't be the money."
+    },
+    {
+      "start": 1376.12,
+      "end": 1377.0,
+      "text": "It can't be the money."
+    },
+    {
+      "start": 1377.0,
+      "end": 1385.08,
+      "text": "The money just it's, you know, Simon Sinek says, what is your why in life?"
+    },
+    {
+      "start": 1385.76,
+      "end": 1388.0,
+      "text": "It's not what you do or how you do it."
+    },
+    {
+      "start": 1388.44,
+      "end": 1389.88,
+      "text": "It's why you do what you do."
+    },
+    {
+      "start": 1390.76,
+      "end": 1392.76,
+      "text": "And that's what makes the whole difference."
+    },
+    {
+      "start": 1393.6,
+      "end": 1394.32,
+      "text": "I love this."
+    },
+    {
+      "start": 1394.68,
+      "end": 1395.04,
+      "text": "Okay."
+    },
+    {
+      "start": 1395.4,
+      "end": 1403.2,
+      "text": "Tell me a lesson that you actually learned from a person you taught and"
+    },
+    {
+      "start": 1403.56,
+      "end": 1404.8,
+      "text": "taught or mentored."
+    },
+    {
+      "start": 1405.56,
+      "end": 1411.3600000000001,
+      "text": "Uh, lesson that I actually learned from a person I taught or mentored."
+    },
+    {
+      "start": 1413.28,
+      "end": 1421.68,
+      "text": "So I've been, uh, an investment banker for 21 years and I, so I did a lot"
+    },
+    {
+      "start": 1421.68,
+      "end": 1427.88,
+      "text": "of contracts and did a lot of different things, um, where at the end of the"
+    },
+    {
+      "start": 1427.88,
+      "end": 1432.32,
+      "text": "day you had sometimes legal documents to protect you."
+    },
+    {
+      "start": 1432.44,
+      "end": 1432.76,
+      "text": "Yeah."
+    },
+    {
+      "start": 1433.72,
+      "end": 1439.44,
+      "text": "Um, and about four years ago, I met a student, she wasn't my student."
+    },
+    {
+      "start": 1439.44,
+      "end": 1440.56,
+      "text": "She was a master's student."
+    },
+    {
+      "start": 1441.2,
+      "end": 1446.12,
+      "text": "Um, but I mentored her for a while and we became business partners."
+    },
+    {
+      "start": 1446.96,
+      "end": 1453.28,
+      "text": "And one of the things she told me was when you have the same values as"
+    },
+    {
+      "start": 1453.28,
+      "end": 1458.56,
+      "text": "someone else, you don't really need contracts and things like that."
+    },
+    {
+      "start": 1458.56,
+      "end": 1462.32,
+      "text": "If you really, really believe that you have the same values and"
+    },
+    {
+      "start": 1463.08,
+      "end": 1466.96,
+      "text": "we've been business partners now for four years without a contract."
+    },
+    {
+      "start": 1467.6399999999999,
+      "end": 1468.44,
+      "text": "Amazing."
+    },
+    {
+      "start": 1468.84,
+      "end": 1472.92,
+      "text": "Because we both have the same values and finding, you know, uh, I don't"
+    },
+    {
+      "start": 1472.92,
+      "end": 1475.12,
+      "text": "recommend this for most people."
+    },
+    {
+      "start": 1475.68,
+      "end": 1479.28,
+      "text": "Um, but finding the right business partner is truly special."
+    },
+    {
+      "start": 1480.4,
+      "end": 1482.12,
+      "text": "It's not easy to find business partners."
+    },
+    {
+      "start": 1482.12,
+      "end": 1484.6399999999999,
+      "text": "You know, they always say, don't do business with your family."
+    },
+    {
+      "start": 1484.6399999999999,
+      "end": 1486.3600000000001,
+      "text": "You don't do business with friends."
+    },
+    {
+      "start": 1486.96,
+      "end": 1488.04,
+      "text": "Have you ever played Monopoly?"
+    },
+    {
+      "start": 1488.28,
+      "end": 1488.8,
+      "text": "Of course."
+    },
+    {
+      "start": 1488.84,
+      "end": 1489.88,
+      "text": "You always get into fights."
+    },
+    {
+      "start": 1489.96,
+      "end": 1490.52,
+      "text": "Of course."
+    },
+    {
+      "start": 1490.6399999999999,
+      "end": 1497.84,
+      "text": "Um, and so I, that is a lesson that I, that I learned that none of"
+    },
+    {
+      "start": 1497.84,
+      "end": 1501.56,
+      "text": "the legal documents and any of this stuff in life makes a difference when"
+    },
+    {
+      "start": 1501.56,
+      "end": 1506.68,
+      "text": "you're dealing with people that have your same values, you know, it's"
+    },
+    {
+      "start": 1506.68,
+      "end": 1509.08,
+      "text": "like, you don't have to worry about those things."
+    },
+    {
+      "start": 1510.52,
+      "end": 1511.28,
+      "text": "I love this."
+    },
+    {
+      "start": 1511.68,
+      "end": 1512.92,
+      "text": "And I totally second it."
+    },
+    {
+      "start": 1512.96,
+      "end": 1515.04,
+      "text": "Which is part of what you were saying earlier that, you know, I"
+    },
+    {
+      "start": 1515.04,
+      "end": 1518.6,
+      "text": "can't, I don't feel good, you know, charging for something like this."
+    },
+    {
+      "start": 1519.0,
+      "end": 1524.56,
+      "text": "Um, you know, I think it's important to go back to values because we're"
+    },
+    {
+      "start": 1524.56,
+      "end": 1529.96,
+      "text": "living in a society nowadays where, you know, people are not promoting"
+    },
+    {
+      "start": 1530.44,
+      "end": 1536.92,
+      "text": "the celebration of values, you know, it's, it's all about, uh, less"
+    },
+    {
+      "start": 1536.92,
+      "end": 1542.72,
+      "text": "emphasis on family, less emphasis on religion, less emphasis on culture."
+    },
+    {
+      "start": 1543.2,
+      "end": 1548.76,
+      "text": "And it's much more about, you know, materialistic, just, uh, instant"
+    },
+    {
+      "start": 1548.76,
+      "end": 1552.48,
+      "text": "gratification and there's no values in that."
+    },
+    {
+      "start": 1553.3600000000001,
+      "end": 1558.08,
+      "text": "And so we, we have to go back to values because at the end of the"
+    },
+    {
+      "start": 1558.08,
+      "end": 1561.72,
+      "text": "day, um, that's what you take with you."
+    },
+    {
+      "start": 1562.16,
+      "end": 1566.8,
+      "text": "And one of the things that we've noticed with AI is when we've"
+    },
+    {
+      "start": 1566.8,
+      "end": 1571.12,
+      "text": "surveyed these young people that know how to use AI and use it well,"
+    },
+    {
+      "start": 1571.2,
+      "end": 1577.52,
+      "text": "yeah, they have, in many cases, they have ethics, because they"
+    },
+    {
+      "start": 1577.52,
+      "end": 1582.88,
+      "text": "realize that if they use AI the wrong way and just don't think anymore"
+    },
+    {
+      "start": 1582.88,
+      "end": 1586.48,
+      "text": "and let AI do all the work and then they get a good grade for not"
+    },
+    {
+      "start": 1586.48,
+      "end": 1589.4,
+      "text": "doing it, they can't do it that way."
+    },
+    {
+      "start": 1589.4,
+      "end": 1591.4,
+      "text": "They realize that's not, that's not them."
+    },
+    {
+      "start": 1591.96,
+      "end": 1594.84,
+      "text": "And so you find that a lot of these people that really know how"
+    },
+    {
+      "start": 1594.84,
+      "end": 1596.8,
+      "text": "to use AI, they have values."
+    },
+    {
+      "start": 1597.0,
+      "end": 1599.16,
+      "text": "And one of their values is their work ethic."
+    },
+    {
+      "start": 1599.8,
+      "end": 1601.24,
+      "text": "They don't believe in a free lunch."
+    },
+    {
+      "start": 1601.52,
+      "end": 1605.24,
+      "text": "They don't believe in that they, you know, they deserve anything, you"
+    },
+    {
+      "start": 1605.24,
+      "end": 1608.92,
+      "text": "know, out of the sky, that they have to work for everything that they do."
+    },
+    {
+      "start": 1609.16,
+      "end": 1612.84,
+      "text": "You know, my father told me when I was a kid, he said, you know,"
+    },
+    {
+      "start": 1612.88,
+      "end": 1617.28,
+      "text": "someday you'll have a job and it's not about what your company can do"
+    },
+    {
+      "start": 1617.28,
+      "end": 1619.24,
+      "text": "for you, but what you do for your company."
+    },
+    {
+      "start": 1620.96,
+      "end": 1622.48,
+      "text": "He's saying the gems."
+    },
+    {
+      "start": 1623.8,
+      "end": 1628.88,
+      "text": "And, and, you know, I, when I was, uh, 15 years old, 14 years old, I"
+    },
+    {
+      "start": 1628.88,
+      "end": 1630.04,
+      "text": "was, I had a paper route."
+    },
+    {
+      "start": 1630.04,
+      "end": 1631.12,
+      "text": "I delivered the newspaper."
+    },
+    {
+      "start": 1631.56,
+      "end": 1632.24,
+      "text": "I love this."
+    },
+    {
+      "start": 1632.32,
+      "end": 1637.0,
+      "text": "It was my way of, you know, because I had to learn what the value of money is."
+    },
+    {
+      "start": 1637.56,
+      "end": 1642.4,
+      "text": "And so if I use AI today, I mean, I'm 65, so, you know, I can"
+    },
+    {
+      "start": 1642.44,
+      "end": 1646.08,
+      "text": "maybe be a little lazy with AI, but if I was a young person, I'd be"
+    },
+    {
+      "start": 1646.08,
+      "end": 1647.84,
+      "text": "feeling like I have to learn something."
+    },
+    {
+      "start": 1648.32,
+      "end": 1650.72,
+      "text": "But we see a lot of students that they don't care."
+    },
+    {
+      "start": 1650.76,
+      "end": 1654.76,
+      "text": "It's like, I'm just going to let AI do the work for me."
+    },
+    {
+      "start": 1654.76,
+      "end": 1655.76,
+      "text": "And I'm going to get a good grade."
+    },
+    {
+      "start": 1656.6,
+      "end": 1659.28,
+      "text": "And that's not good because our brain is like a muscle."
+    },
+    {
+      "start": 1659.28,
+      "end": 1660.44,
+      "text": "And if we don't use it, we lose it."
+    },
+    {
+      "start": 1662.32,
+      "end": 1667.8,
+      "text": "I, I feel something in my brains now worked when you said it, because"
+    },
+    {
+      "start": 1668.28,
+      "end": 1672.8,
+      "text": "I'm trying to use it more because it didn't, it did not even hit only my"
+    },
+    {
+      "start": 1672.8,
+      "end": 1678.0,
+      "text": "brains, but every atom of my being, because yeah, if I don't train it, I"
+    },
+    {
+      "start": 1678.0,
+      "end": 1679.4,
+      "text": "will lose, I don't want to lose it."
+    },
+    {
+      "start": 1679.4,
+      "end": 1681.68,
+      "text": "I want it to be fresh and young."
+    },
+    {
+      "start": 1681.68,
+      "end": 1684.8,
+      "text": "And, um, I love this."
+    },
+    {
+      "start": 1684.84,
+      "end": 1685.4,
+      "text": "Okay."
+    },
+    {
+      "start": 1685.44,
+      "end": 1687.8,
+      "text": "So what did your father do for a living?"
+    },
+    {
+      "start": 1688.04,
+      "end": 1692.2,
+      "text": "My father was in the U S Navy and then he retired and was an engineer."
+    },
+    {
+      "start": 1692.84,
+      "end": 1697.8,
+      "text": "So you actually also learned some, not some, but like discipline, lots"
+    },
+    {
+      "start": 1697.8,
+      "end": 1698.48,
+      "text": "of discipline."
+    },
+    {
+      "start": 1698.6,
+      "end": 1702.88,
+      "text": "I mean, discipline is important, but he taught discipline by example."
+    },
+    {
+      "start": 1703.56,
+      "end": 1705.08,
+      "text": "He never said to me, don't smoke."
+    },
+    {
+      "start": 1705.76,
+      "end": 1708.68,
+      "text": "Um, he just showed me the effects of smoking."
+    },
+    {
+      "start": 1709.04,
+      "end": 1709.32,
+      "text": "Yeah."
+    },
+    {
+      "start": 1709.48,
+      "end": 1711.08,
+      "text": "He never said to me, don't do drugs."
+    },
+    {
+      "start": 1711.08,
+      "end": 1713.12,
+      "text": "He just showed me the effects of doing drugs."
+    },
+    {
+      "start": 1713.6799999999998,
+      "end": 1718.56,
+      "text": "And so when you learn that way, it's, it has more impact on you."
+    },
+    {
+      "start": 1719.08,
+      "end": 1719.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 1719.52,
+      "end": 1721.88,
+      "text": "Because, you know, people are rebellious."
+    },
+    {
+      "start": 1722.04,
+      "end": 1722.52,
+      "text": "Exactly."
+    },
+    {
+      "start": 1722.52,
+      "end": 1723.92,
+      "text": "Someone tells you, don't do that."
+    },
+    {
+      "start": 1723.92,
+      "end": 1724.44,
+      "text": "You do it."
+    },
+    {
+      "start": 1724.56,
+      "end": 1725.28,
+      "text": "Of course."
+    },
+    {
+      "start": 1725.56,
+      "end": 1725.96,
+      "text": "You know?"
+    },
+    {
+      "start": 1726.04,
+      "end": 1726.3600000000001,
+      "text": "Yeah."
+    },
+    {
+      "start": 1726.56,
+      "end": 1729.8400000000001,
+      "text": "Uh, it's like, you know, curiosity and all those things."
+    },
+    {
+      "start": 1729.8400000000001,
+      "end": 1736.3200000000002,
+      "text": "And, and so, yeah, I think that, um, there's a way of, of doing"
+    },
+    {
+      "start": 1736.3200000000002,
+      "end": 1740.88,
+      "text": "things of, you know, being a role model and, and, you know, it's the"
+    },
+    {
+      "start": 1740.88,
+      "end": 1742.72,
+      "text": "buck stops with you, as they say."
+    },
+    {
+      "start": 1742.8400000000001,
+      "end": 1743.12,
+      "text": "Yeah."
+    },
+    {
+      "start": 1743.2,
+      "end": 1746.6799999999998,
+      "text": "You have to be the, the role model in the house when you're, when you"
+    },
+    {
+      "start": 1746.6799999999998,
+      "end": 1749.8,
+      "text": "have a family, because that's the only way that you're going to be taken"
+    },
+    {
+      "start": 1749.8,
+      "end": 1750.2,
+      "text": "seriously."
+    },
+    {
+      "start": 1750.8400000000001,
+      "end": 1753.96,
+      "text": "I have, uh, four younger brothers and sisters."
+    },
+    {
+      "start": 1754.04,
+      "end": 1754.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 1754.56,
+      "end": 1759.4,
+      "text": "Um, and so I have a lot of, you know, my family."
+    },
+    {
+      "start": 1759.4,
+      "end": 1759.6799999999998,
+      "text": "Yeah."
+    },
+    {
+      "start": 1759.96,
+      "end": 1763.04,
+      "text": "And what's the lesson that you would teach yourself to your brothers?"
+    },
+    {
+      "start": 1763.6799999999998,
+      "end": 1770.96,
+      "text": "Um, I mean, I think the most important lesson is that health is wealth."
+    },
+    {
+      "start": 1771.92,
+      "end": 1772.76,
+      "text": "We forget that."
+    },
+    {
+      "start": 1773.52,
+      "end": 1777.04,
+      "text": "And only when there's a tough situation that you've come to realize"
+    },
+    {
+      "start": 1777.52,
+      "end": 1781.44,
+      "text": "how important health is and, and your family has to be number one."
+    },
+    {
+      "start": 1782.1599999999999,
+      "end": 1783.8,
+      "text": "Your family has to be number one."
+    },
+    {
+      "start": 1783.92,
+      "end": 1788.3600000000001,
+      "text": "Uh, but health, you know, without health, you can be the luckiest"
+    },
+    {
+      "start": 1788.3600000000001,
+      "end": 1792.3600000000001,
+      "text": "person in the world, but if you don't have health, no felus in"
+    },
+    {
+      "start": 1792.3600000000001,
+      "end": 1793.8,
+      "text": "the world will make up for it."
+    },
+    {
+      "start": 1794.12,
+      "end": 1794.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 1794.88,
+      "end": 1799.24,
+      "text": "So I was standing here like the last three days and I'm."
+    },
+    {
+      "start": 1800.0,
+      "end": 1810.0,
+      "text": "I go home, my feet are hurting, and then I see someone who is an amazing human being"
+    },
+    {
+      "start": 1810.0,
+      "end": 1816.12,
+      "text": "who's handicapped, she's sitting on a wheelchair and she's moving and she's so happy and she's"
+    },
+    {
+      "start": 1816.12,
+      "end": 1823.32,
+      "text": "so enthusiastic and I want to be her friend and I just say to myself, are you crazy?"
+    },
+    {
+      "start": 1823.32,
+      "end": 1827.68,
+      "text": "You went home yesterday crying because your feet, but at least you were, you were"
+    },
+    {
+      "start": 1827.68,
+      "end": 1828.68,
+      "text": "walking."
+    },
+    {
+      "start": 1828.68,
+      "end": 1830.6,
+      "text": "We take so much for granted."
+    },
+    {
+      "start": 1830.6,
+      "end": 1831.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 1831.6,
+      "end": 1838.4,
+      "text": "We take so much for granted, you know, the other lesson my father taught me when he was"
+    },
+    {
+      "start": 1838.4,
+      "end": 1844.12,
+      "text": "about to die, you know, my father died of liver cancer and he was in his 80s."
+    },
+    {
+      "start": 1844.12,
+      "end": 1845.48,
+      "text": "May he rest in peace."
+    },
+    {
+      "start": 1845.48,
+      "end": 1846.48,
+      "text": "And thank you."
+    },
+    {
+      "start": 1846.48,
+      "end": 1854.52,
+      "text": "And he said to me, be careful with life, because many times you will never regret"
+    },
+    {
+      "start": 1854.68,
+      "end": 1860.92,
+      "text": "the things you've done in your life, but you will regret the things you haven't done."
+    },
+    {
+      "start": 1860.92,
+      "end": 1864.6,
+      "text": "And so make sure you live a life of no regrets."
+    },
+    {
+      "start": 1864.6,
+      "end": 1869.56,
+      "text": "And that's very important because, you know, you could say, like you, you were eight"
+    },
+    {
+      "start": 1869.56,
+      "end": 1873.16,
+      "text": "years at that company, you could have said, oh, I'm going to stay another two and then"
+    },
+    {
+      "start": 1873.16,
+      "end": 1874.16,
+      "text": "five years go by."
+    },
+    {
+      "start": 1874.16,
+      "end": 1875.16,
+      "text": "Yeah."
+    },
+    {
+      "start": 1875.16,
+      "end": 1877.48,
+      "text": "And then you've been there for like 12 years."
+    },
+    {
+      "start": 1877.48,
+      "end": 1883.44,
+      "text": "You know, you have to and Steve Jobs said this, never settle in your life."
+    },
+    {
+      "start": 1883.48,
+      "end": 1889.6,
+      "text": "You know, you have to really wake up to the fact that you shouldn't settle."
+    },
+    {
+      "start": 1889.6,
+      "end": 1894.8,
+      "text": "You shouldn't feel bad about, you know, experiences that you have."
+    },
+    {
+      "start": 1894.8,
+      "end": 1897.44,
+      "text": "It's very important not to have any regrets."
+    },
+    {
+      "start": 1897.44,
+      "end": 1899.52,
+      "text": "And so you need to live a life of no regrets."
+    },
+    {
+      "start": 1899.52,
+      "end": 1902.6,
+      "text": "You need to take every opportunity, as we said at the beginning, even if you're not"
+    },
+    {
+      "start": 1902.6,
+      "end": 1905.12,
+      "text": "sure you can do it, jump into it."
+    },
+    {
+      "start": 1905.12,
+      "end": 1906.12,
+      "text": "Life's too short."
+    },
+    {
+      "start": 1906.12,
+      "end": 1907.12,
+      "text": "Life's too short."
+    },
+    {
+      "start": 1907.12,
+      "end": 1908.8,
+      "text": "You need to be ambitious."
+    },
+    {
+      "start": 1908.8,
+      "end": 1909.8,
+      "text": "You need to have adrenaline."
+    },
+    {
+      "start": 1910.28,
+      "end": 1912.44,
+      "text": "You know, adrenaline is what keeps you going."
+    },
+    {
+      "start": 1912.44,
+      "end": 1914.08,
+      "text": "A little bit of stress is good, too."
+    },
+    {
+      "start": 1914.08,
+      "end": 1915.12,
+      "text": "Don't be afraid of stress."
+    },
+    {
+      "start": 1915.12,
+      "end": 1916.8,
+      "text": "It's got to be healthy stress."
+    },
+    {
+      "start": 1916.8,
+      "end": 1918.08,
+      "text": "But you need to be alive."
+    },
+    {
+      "start": 1918.08,
+      "end": 1920.32,
+      "text": "You need to feel alive."
+    },
+    {
+      "start": 1920.32,
+      "end": 1926.96,
+      "text": "Do you second people being happy or grateful or both?"
+    },
+    {
+      "start": 1926.96,
+      "end": 1929.72,
+      "text": "I mean, I don't think they're mutually exclusive."
+    },
+    {
+      "start": 1929.72,
+      "end": 1931.84,
+      "text": "I think we all always have to be grateful."
+    },
+    {
+      "start": 1931.84,
+      "end": 1935.44,
+      "text": "Yeah. You know, we have to thank God every day that we're alive."
+    },
+    {
+      "start": 1935.44,
+      "end": 1938.32,
+      "text": "And this is something that my mother taught me."
+    },
+    {
+      "start": 1938.32,
+      "end": 1939.96,
+      "text": "My mother is ninety five."
+    },
+    {
+      "start": 1940.0,
+      "end": 1942.8,
+      "text": "Oh, ninety five."
+    },
+    {
+      "start": 1942.8,
+      "end": 1944.2,
+      "text": "And I love this."
+    },
+    {
+      "start": 1944.2,
+      "end": 1947.12,
+      "text": "She loves life."
+    },
+    {
+      "start": 1947.12,
+      "end": 1949.0,
+      "text": "She just loves life every day."
+    },
+    {
+      "start": 1949.0,
+      "end": 1952.2,
+      "text": "She wakes up and she's like she takes she looks at herself in the mirror."
+    },
+    {
+      "start": 1952.2,
+      "end": 1953.4,
+      "text": "She fixes herself up."
+    },
+    {
+      "start": 1953.4,
+      "end": 1958.48,
+      "text": "She says, I'm going to look the best I can because I love every moment of this"
+    },
+    {
+      "start": 1958.48,
+      "end": 1962.4,
+      "text": "life and I'm grateful for every moment of this life."
+    },
+    {
+      "start": 1962.4,
+      "end": 1964.92,
+      "text": "And I think that's priceless."
+    },
+    {
+      "start": 1964.92,
+      "end": 1966.24,
+      "text": "And that she taught me that."
+    },
+    {
+      "start": 1966.24,
+      "end": 1972.12,
+      "text": "And I think it's priceless to really realize that we don't know how many days"
+    },
+    {
+      "start": 1972.12,
+      "end": 1974.32,
+      "text": "we have left in our life."
+    },
+    {
+      "start": 1974.32,
+      "end": 1978.56,
+      "text": "It's not like we're a carton of milk that has an expiration date."
+    },
+    {
+      "start": 1978.56,
+      "end": 1980.88,
+      "text": "We don't know what our expiration date and it could be tomorrow."
+    },
+    {
+      "start": 1980.88,
+      "end": 1983.6399999999999,
+      "text": "It could be next week. It could be in 50 years."
+    },
+    {
+      "start": 1983.6399999999999,
+      "end": 1988.56,
+      "text": "But you need to live every day as if it was your last."
+    },
+    {
+      "start": 1988.56,
+      "end": 1992.76,
+      "text": "I love this and I love how"
+    },
+    {
+      "start": 1992.8,
+      "end": 1997.0,
+      "text": "how did your parents affect your values, your being?"
+    },
+    {
+      "start": 1997.0,
+      "end": 2003.32,
+      "text": "And I love it when people tell me lessons that they learn from their parents."
+    },
+    {
+      "start": 2003.32,
+      "end": 2006.92,
+      "text": "They are our first school, you know, our first friends."
+    },
+    {
+      "start": 2006.92,
+      "end": 2010.2,
+      "text": "That's right. And that's why I mean, that's so important."
+    },
+    {
+      "start": 2010.2,
+      "end": 2015.0,
+      "text": "But, you know, today it's more difficult because most households,"
+    },
+    {
+      "start": 2015.0,
+      "end": 2018.44,
+      "text": "both parents work. Yeah."
+    },
+    {
+      "start": 2018.44,
+      "end": 2022.2,
+      "text": "And then, you know, how much quality time do they spend with their kids?"
+    },
+    {
+      "start": 2022.2,
+      "end": 2028.68,
+      "text": "True. We're living in a country today where the divorce rate is going through the roof."
+    },
+    {
+      "start": 2028.68,
+      "end": 2035.04,
+      "text": "And, you know, it's a challenge to raise kids in a single parent home."
+    },
+    {
+      "start": 2035.04,
+      "end": 2040.6,
+      "text": "Or even when both parents are working, sometimes the nanny is raising the kids."
+    },
+    {
+      "start": 2040.6,
+      "end": 2043.28,
+      "text": "So it's a challenge."
+    },
+    {
+      "start": 2043.28,
+      "end": 2048.64,
+      "text": "And unfortunately, those years of a child are so important"
+    },
+    {
+      "start": 2048.64,
+      "end": 2050.8,
+      "text": "in terms of who they're going to become in the future."
+    },
+    {
+      "start": 2050.8,
+      "end": 2058.24,
+      "text": "The first seven years, the first five years, I spent my first seven years with my grandmother."
+    },
+    {
+      "start": 2058.24,
+      "end": 2063.04,
+      "text": "And she was like, I was the first grandchild who was born next to her."
+    },
+    {
+      "start": 2063.04,
+      "end": 2066.44,
+      "text": "The others were born afar in other countries."
+    },
+    {
+      "start": 2066.44,
+      "end": 2068.0,
+      "text": "So I was like her princess."
+    },
+    {
+      "start": 2068.0,
+      "end": 2075.92,
+      "text": "And even my nickname was like a part of a princess, but in Arabic, you know, she takes a part of it."
+    },
+    {
+      "start": 2075.92,
+      "end": 2084.44,
+      "text": "And I owe every single atom of my being now for how God shaped me,"
+    },
+    {
+      "start": 2084.44,
+      "end": 2090.88,
+      "text": "for my grandmother, for my mother, for my father, for my sister, family and my best friends."
+    },
+    {
+      "start": 2090.88,
+      "end": 2093.12,
+      "text": "They are the ones who made me know life."
+    },
+    {
+      "start": 2093.12,
+      "end": 2099.0,
+      "text": "And for my professors, for my teaching assistants, for my teachers,"
+    },
+    {
+      "start": 2099.0,
+      "end": 2107.36,
+      "text": "the ones who saw something in me and decided to tell me, you go, own it."
+    },
+    {
+      "start": 2107.36,
+      "end": 2117.08,
+      "text": "So I think we're coming to an end, but closed in your life in a way that is in a rejection form."
+    },
+    {
+      "start": 2117.08,
+      "end": 2118.44,
+      "text": "And it changed your life."
+    },
+    {
+      "start": 2118.44,
+      "end": 2128.55,
+      "text": "OK, can you tell me a door that when it was closed or in a form of rejection,"
+    },
+    {
+      "start": 2128.55,
+      "end": 2133.64,
+      "text": "it actually taught you a lesson."
+    },
+    {
+      "start": 2133.64,
+      "end": 2138.68,
+      "text": "So since we are at the band, doors closing, opening."
+    },
+    {
+      "start": 2138.68,
+      "end": 2146.64,
+      "text": "My father was in the military, as I said to you, and I was obsessed as a child to go into the military as well."
+    },
+    {
+      "start": 2146.64,
+      "end": 2152.24,
+      "text": "And so the door wasn't closed by the military, but my father closed it for me."
+    },
+    {
+      "start": 2152.24,
+      "end": 2159.7200000000003,
+      "text": "He said he prohibited that I would go into the military because he said I would make a life out of it."
+    },
+    {
+      "start": 2159.7200000000003,
+      "end": 2162.96,
+      "text": "And you need to have a life in your life."
+    },
+    {
+      "start": 2162.96,
+      "end": 2166.4,
+      "text": "And I was very upset for several years."
+    },
+    {
+      "start": 2166.4,
+      "end": 2176.16,
+      "text": "But then I realized how right he was that I was able to have a life as well as a professional life."
+    },
+    {
+      "start": 2176.16,
+      "end": 2179.88,
+      "text": "And I see so many people in the military that it becomes their life."
+    },
+    {
+      "start": 2179.88,
+      "end": 2184.52,
+      "text": "You know, they don't have they can't take care of their families, all that."
+    },
+    {
+      "start": 2184.52,
+      "end": 2189.88,
+      "text": "And so that is one door that I always dreamt of going through as a child."
+    },
+    {
+      "start": 2189.88,
+      "end": 2191.76,
+      "text": "And it was closed."
+    },
+    {
+      "start": 2191.76,
+      "end": 2194.24,
+      "text": "And you actually lived through the eyes of your father."
+    },
+    {
+      "start": 2194.24,
+      "end": 2196.32,
+      "text": "Yes, I lived through the eyes of my father."
+    },
+    {
+      "start": 2196.32,
+      "end": 2200.8,
+      "text": "But he was based on land, you know, not in combat."
+    },
+    {
+      "start": 2200.8,
+      "end": 2203.44,
+      "text": "And so he was able to spend time with the family."
+    },
+    {
+      "start": 2203.44,
+      "end": 2205.36,
+      "text": "But I was willing to go."
+    },
+    {
+      "start": 2205.36,
+      "end": 2208.0,
+      "text": "Yeah, to go places, go places and things."
+    },
+    {
+      "start": 2208.0,
+      "end": 2213.48,
+      "text": "And so I'm glad that I took well that he forced that decision on me"
+    },
+    {
+      "start": 2213.48,
+      "end": 2216.08,
+      "text": "because it has had a big impact on my life."
+    },
+    {
+      "start": 2216.08,
+      "end": 2220.84,
+      "text": "I'm glad, too, because if he hasn't imposed this, I don't know if I'll be meeting you here."
+    },
+    {
+      "start": 2220.84,
+      "end": 2222.24,
+      "text": "Probably not. Right."
+    },
+    {
+      "start": 2222.24,
+      "end": 2228.56,
+      "text": "I don't know unless I meet you somewhere in a military place."
+    },
+    {
+      "start": 2228.56,
+      "end": 2231.7200000000003,
+      "text": "And I hope I'm not making any trouble."
+    },
+    {
+      "start": 2231.7200000000003,
+      "end": 2238.52,
+      "text": "Yeah, you are an educator and innovator and a network catalyst."
+    },
+    {
+      "start": 2238.52,
+      "end": 2241.36,
+      "text": "You know what I call myself on LinkedIn? What?"
+    },
+    {
+      "start": 2241.36,
+      "end": 2243.6,
+      "text": "A human catalyst."
+    },
+    {
+      "start": 2243.6,
+      "end": 2245.04,
+      "text": "I believe that."
+    },
+    {
+      "start": 2245.04,
+      "end": 2250.56,
+      "text": "And when I read this, I thought this is what I want to be when I grow up."
+    },
+    {
+      "start": 2250.56,
+      "end": 2253.52,
+      "text": "So from now on, you're my role model from today."
+    },
+    {
+      "start": 2253.52,
+      "end": 2260.64,
+      "text": "And on the words as we have 8th of November 2025, I have a new role model, everyone."
+    },
+    {
+      "start": 2260.64,
+      "end": 2263.36,
+      "text": "Did you did you believe in role models when we were young?"
+    },
+    {
+      "start": 2263.36,
+      "end": 2266.04,
+      "text": "Yes, I did believe in role models."
+    },
+    {
+      "start": 2266.08,
+      "end": 2277.4,
+      "text": "I had two role models in particular, Muhammad Ali, the boxer was I was crazy about Muhammad Ali."
+    },
+    {
+      "start": 2277.4,
+      "end": 2279.2799999999997,
+      "text": "He was one of my idols."
+    },
+    {
+      "start": 2279.2799999999997,
+      "end": 2281.76,
+      "text": "And the other one was Michael Jackson. Wow."
+    },
+    {
+      "start": 2281.76,
+      "end": 2284.2,
+      "text": "Two black guys were my role models."
+    },
+    {
+      "start": 2284.2,
+      "end": 2287.4,
+      "text": "Michael Jackson, who for me still is."
+    },
+    {
+      "start": 2287.4,
+      "end": 2294.2,
+      "text": "And I was very lucky that much later on in my life, I went to meet Michael Jackson."
+    },
+    {
+      "start": 2294.2,
+      "end": 2295.64,
+      "text": "Really? In Neverland."
+    },
+    {
+      "start": 2295.64,
+      "end": 2300.12,
+      "text": "I spent the weekend there in his 45th birthday."
+    },
+    {
+      "start": 2300.12,
+      "end": 2301.76,
+      "text": "Oh, my God. Yes."
+    },
+    {
+      "start": 2301.76,
+      "end": 2302.8,
+      "text": "How was it?"
+    },
+    {
+      "start": 2302.8,
+      "end": 2304.44,
+      "text": "It was incredible. It was incredible."
+    },
+    {
+      "start": 2304.44,
+      "end": 2306.08,
+      "text": "This Michael Jackson is."
+    },
+    {
+      "start": 2306.08,
+      "end": 2309.0,
+      "text": "What's your favorite song for Michael Jackson?"
+    },
+    {
+      "start": 2311.36,
+      "end": 2313.04,
+      "text": "One of them is Beat It."
+    },
+    {
+      "start": 2313.04,
+      "end": 2317.7799999999997,
+      "text": "OK, but there's another one."
+    },
+    {
+      "start": 2317.7799999999997,
+      "end": 2319.9,
+      "text": "Is it rocking it?"
+    },
+    {
+      "start": 2319.9,
+      "end": 2323.02,
+      "text": "I don't know."
+    },
+    {
+      "start": 2323.02,
+      "end": 2326.7,
+      "text": "I love Thriller because of the dance."
+    },
+    {
+      "start": 2326.74,
+      "end": 2328.3,
+      "text": "Thriller was amazing."
+    },
+    {
+      "start": 2328.3,
+      "end": 2331.7,
+      "text": "Let me let me tell you the my favorite song for Michael Jackson."
+    },
+    {
+      "start": 2331.7,
+      "end": 2334.66,
+      "text": "What it is, it's it's Beat It is good, too."
+    },
+    {
+      "start": 2334.66,
+      "end": 2339.17,
+      "text": "Yeah. Oh, rock with you."
+    },
+    {
+      "start": 2339.17,
+      "end": 2340.61,
+      "text": "Oh, yeah. This is amazing."
+    },
+    {
+      "start": 2340.61,
+      "end": 2342.09,
+      "text": "I love this."
+    },
+    {
+      "start": 2343.09,
+      "end": 2346.73,
+      "text": "We're in the podcast track and we're grooving on some Michael Jackson."
+    },
+    {
+      "start": 2346.73,
+      "end": 2348.05,
+      "text": "Yeah, this is amazing."
+    },
+    {
+      "start": 2348.05,
+      "end": 2349.9700000000003,
+      "text": "But I got to tell you the truth."
+    },
+    {
+      "start": 2349.9700000000003,
+      "end": 2351.77,
+      "text": "My favorite music is rap."
+    },
+    {
+      "start": 2351.77,
+      "end": 2353.69,
+      "text": "Really? Oh, my God."
+    },
+    {
+      "start": 2353.69,
+      "end": 2355.93,
+      "text": "Who do you listen to?"
+    },
+    {
+      "start": 2355.93,
+      "end": 2356.93,
+      "text": "Who do I listen to?"
+    },
+    {
+      "start": 2356.93,
+      "end": 2358.89,
+      "text": "Who don't I listen to?"
+    },
+    {
+      "start": 2359.29,
+      "end": 2362.41,
+      "text": "I'm you know, my favorite music is is rap."
+    },
+    {
+      "start": 2362.41,
+      "end": 2365.61,
+      "text": "And, you know, also things like, for example."
+    },
+    {
+      "start": 2369.83,
+      "end": 2372.23,
+      "text": "Nice. Wow."
+    },
+    {
+      "start": 2372.23,
+      "end": 2374.63,
+      "text": "I love the spirit in music."
+    },
+    {
+      "start": 2374.63,
+      "end": 2379.0299999999997,
+      "text": "Yeah, I it's it goes back to that spirit that I was telling you about."
+    },
+    {
+      "start": 2379.0299999999997,
+      "end": 2382.99,
+      "text": "It's even though I'm 65 years old, sometimes"
+    },
+    {
+      "start": 2383.75,
+      "end": 2385.99,
+      "text": "my mind thinks I'm 18."
+    },
+    {
+      "start": 2386.27,
+      "end": 2388.71,
+      "text": "Yeah, definitely."
+    },
+    {
+      "start": 2388.75,
+      "end": 2389.55,
+      "text": "I love this."
+    },
+    {
+      "start": 2389.55,
+      "end": 2392.19,
+      "text": "My taste in music is as if I was 18."
+    },
+    {
+      "start": 2392.67,
+      "end": 2393.75,
+      "text": "I love this."
+    },
+    {
+      "start": 2393.75,
+      "end": 2395.75,
+      "text": "Let's get back to Hamid Ali."
+    },
+    {
+      "start": 2395.75,
+      "end": 2396.87,
+      "text": "Why did you like him?"
+    },
+    {
+      "start": 2396.87,
+      "end": 2399.67,
+      "text": "Muhammad Ali was an amazing person."
+    },
+    {
+      "start": 2400.0,
+      "end": 2405.96,
+      "text": "he put on a show or not see that you need to read his big biography okay and"
+    },
+    {
+      "start": 2405.96,
+      "end": 2412.04,
+      "text": "there you see the real person he was a real person but in public he was a showman"
+    },
+    {
+      "start": 2412.04,
+      "end": 2418.24,
+      "text": "but in reality he was a very modest and he showed his his weaknesses and he"
+    },
+    {
+      "start": 2418.24,
+      "end": 2423.6,
+      "text": "showed he was human yeah but I just love the fact that he also loved"
+    },
+    {
+      "start": 2423.6,
+      "end": 2429.12,
+      "text": "life and he was a showman in public I love this and I love how you're"
+    },
+    {
+      "start": 2429.12,
+      "end": 2437.2,
+      "text": "seen through the the names and and the job titles and all the flashlights big"
+    },
+    {
+      "start": 2437.2,
+      "end": 2442.08,
+      "text": "lesson I learned in life the hard way is another one that my father gave me which"
+    },
+    {
+      "start": 2442.08,
+      "end": 2447.72,
+      "text": "is never judge a person until you understand where they're coming from"
+    },
+    {
+      "start": 2447.72,
+      "end": 2452.28,
+      "text": "that's true every one of us you know you meet somebody who's in a bad mode"
+    },
+    {
+      "start": 2452.28,
+      "end": 2456.24,
+      "text": "and they're they're rude to you you don't know what's happening inside"
+    },
+    {
+      "start": 2456.24,
+      "end": 2460.08,
+      "text": "that person's head you don't know what kind of a day they've had you don't know"
+    },
+    {
+      "start": 2460.08,
+      "end": 2465.16,
+      "text": "what kind of a life they have so it's very important to understand where"
+    },
+    {
+      "start": 2465.16,
+      "end": 2470.48,
+      "text": "people are coming from before you judge them I think that if we're"
+    },
+    {
+      "start": 2470.48,
+      "end": 2473.94,
+      "text": "speaking of entrepreneurship if we're speaking from the band if we're"
+    },
+    {
+      "start": 2473.94,
+      "end": 2477.76,
+      "text": "speaking from the yard which is becoming an amazing land of"
+    },
+    {
+      "start": 2477.76,
+      "end": 2482.96,
+      "text": "opportunities and we're gathered here today I think if I learned a lesson"
+    },
+    {
+      "start": 2482.96,
+      "end": 2489.52,
+      "text": "from you today is that in order to be a successful entrepreneur or businessman"
+    },
+    {
+      "start": 2489.52,
+      "end": 2498.12,
+      "text": "businesswoman I need to be rooted to my human self side in more yeah you"
+    },
+    {
+      "start": 2498.12,
+      "end": 2502.52,
+      "text": "need to be rooted in human side but the most important thing is what does"
+    },
+    {
+      "start": 2502.52,
+      "end": 2510.92,
+      "text": "an entrepreneur see in uncertainty opportunity yes and so you need to"
+    },
+    {
+      "start": 2510.92,
+      "end": 2514.88,
+      "text": "feel comfortable outside of your comfort zone you need to be ambitious"
+    },
+    {
+      "start": 2514.88,
+      "end": 2519.88,
+      "text": "all those things entrepreneurs see opportunity and uncertainty and most"
+    },
+    {
+      "start": 2519.88,
+      "end": 2524.08,
+      "text": "people see fear and everybody should be comfortable with uncertainty because"
+    },
+    {
+      "start": 2524.08,
+      "end": 2528.08,
+      "text": "we're living a very uncertain work yeah that's why I love the Lebanese so"
+    },
+    {
+      "start": 2528.08,
+      "end": 2532.76,
+      "text": "much because they see opportunity and uncertainty all the time because they're"
+    },
+    {
+      "start": 2532.76,
+      "end": 2536.56,
+      "text": "living with so much uncertainty in their lives and the Egyptians to an"
+    },
+    {
+      "start": 2536.56,
+      "end": 2539.64,
+      "text": "extent I mean if you go around the Middle East the DCC you find a lot"
+    },
+    {
+      "start": 2539.64,
+      "end": 2545.56,
+      "text": "of Egyptian executives that have left Egypt and are big you know executives"
+    },
+    {
+      "start": 2545.56,
+      "end": 2554.44,
+      "text": "and big companies so I I think that one of my biggest advice is for young"
+    },
+    {
+      "start": 2554.44,
+      "end": 2558.96,
+      "text": "entrepreneurs is that they should embrace uncertainty they should get out"
+    },
+    {
+      "start": 2558.96,
+      "end": 2563.72,
+      "text": "of their comfort zone and feel comfortable you know yeah you need to"
+    },
+    {
+      "start": 2563.72,
+      "end": 2567.92,
+      "text": "feel the pain and you know life is like a muscle the more you stretch it"
+    },
+    {
+      "start": 2567.96,
+      "end": 2573.4,
+      "text": "yeah the more you're comfortable what's your plan what what are your plans in"
+    },
+    {
+      "start": 2573.4,
+      "end": 2578.66,
+      "text": "Saudi Arabia come what are your coming plans here I intend to keep coming here"
+    },
+    {
+      "start": 2578.66,
+      "end": 2583.28,
+      "text": "hopefully for the next 10 or 15 or 20 years I love this country it's a land"
+    },
+    {
+      "start": 2583.28,
+      "end": 2590.0,
+      "text": "of opportunity I love the culture I love the people my plans are just to"
+    },
+    {
+      "start": 2590.0,
+      "end": 2596.4,
+      "text": "work on great projects with people I enjoy working with that's super nice"
+    },
+    {
+      "start": 2596.4,
+      "end": 2601.32,
+      "text": "and I'm I'm happy I'm here because I got this chance to actually take a lot of"
+    },
+    {
+      "start": 2601.32,
+      "end": 2608.32,
+      "text": "your time my pleasure and thank you so much this is the highlight of my"
+    },
+    {
+      "start": 2608.32,
+      "end": 2613.64,
+      "text": "interviews and the highlight of my presence here in the band with the"
+    },
+    {
+      "start": 2613.64,
+      "end": 2617.64,
+      "text": "podcast drug by media turtles this is the first time I've done a podcast"
+    },
+    {
+      "start": 2617.64,
+      "end": 2622.28,
+      "text": "in a truck so this is the first for me too did you like it I love it so"
+    },
+    {
+      "start": 2622.28,
+      "end": 2629.08,
+      "text": "it's crazy outside and we're here so chill we can do yoga here if we want"
+    },
+    {
+      "start": 2629.88,
+      "end": 2637.04,
+      "text": "thank you so much thank you Paris I really enjoyed it I hope you keep on"
+    },
+    {
+      "start": 2637.04,
+      "end": 2641.56,
+      "text": "inspiring as many people as you come across please be my mentor please I'll"
+    },
+    {
+      "start": 2641.56,
+      "end": 2645.0,
+      "text": "stay in touch how can I be your mentor you're Oprah Winfrey already no"
+    },
+    {
+      "start": 2645.0,
+      "end": 2650.72,
+      "text": "I'm not I'm just I am just I was glad to be interviewing you today"
+    },
+    {
+      "start": 2650.72,
+      "end": 2655.12,
+      "text": "thank you so much thank you"
+    }
+  ]
+}
